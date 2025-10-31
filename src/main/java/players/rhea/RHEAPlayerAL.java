@@ -3,6 +3,7 @@ package players.rhea;
 import core.AbstractGameState;
 import core.AbstractPlayer;
 import core.actions.AbstractAction;
+import core.interfaces.IStateHeuristic;
 import games.GameType;
 import games.sushigo.actions.ChooseCard;
 import games.sushigo.SGGameState;
@@ -17,8 +18,9 @@ import utilities.Utils;
 
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
-public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
+public class   RHEAPlayer extends AbstractPlayer implements IAnyTimePlayer {
     private static final AbstractPlayer randomPlayer = new RandomPlayer();
     List<Map<Object, Pair<Integer, Double>>> MASTStatistics; // a list of one Map per player. Action -> (visits, totValue)
     protected List<RHEAIndividual> population = new ArrayList<>();
@@ -30,12 +32,13 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
     protected int repairCount, nonRepairCount;
     private MASTPlayer mastPlayer;
     private GameType gameType;  // Track game type for domain-specific optimizations
+    private IStateHeuristic enhancedHeuristic;  // Wrapped heuristic with Sushi Go enhancements
 
-    public RHEAPlayerAL(RHEAParams params) {
+    public RHEAPlayer(RHEAParams params) {
         super(params, "RHEAPlayer");
     }
 
-    public RHEAPlayerAL(RHEAParams params, String name) {
+    public RHEAPlayer(RHEAParams params, String name) {
         super(params, name);
     }
 
@@ -56,6 +59,11 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
         // Initialize MAST with domain knowledge for Sushi Go
         if (gameType == GameType.SushiGo) {
             initializeSushiGoMAST(state.getNPlayers());
+            // Wrap the heuristic with Sushi Go enhancements
+            RHEAParams params = getParameters();
+            if (params.heuristic != null) {
+                enhancedHeuristic = new SushiGoEnhancedHeuristic(params.heuristic);
+            }
         }
     }
 
@@ -115,8 +123,18 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
             mastPlayer = new MASTPlayer(null, 1.0, 0.0, System.currentTimeMillis(), 0.0);
             mastPlayer.setMASTStats(MASTStatistics);
         }
+        // Use enhanced heuristic for Sushi Go, otherwise use base heuristic
+        IStateHeuristic heuristicToUse = (gameType == GameType.SushiGo && enhancedHeuristic != null)
+                ? enhancedHeuristic : params.heuristic;
+
         // Initialise individuals
         if (params.shiftLeft && !population.isEmpty()) {
+            // Update heuristic for existing individuals if needed
+            if (heuristicToUse != params.heuristic) {
+                for (RHEAIndividual genome : population) {
+                    genome.heuristic = heuristicToUse;
+                }
+            }
             population.forEach(i -> i.value = Double.NEGATIVE_INFINITY);  // so that any we don't have time to shift are ignored when picking an action
             for (RHEAIndividual genome : population) {
                 if (!budgetLeft(timer)) break;
@@ -137,7 +155,7 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
             for (int i = 0; i < randomCount; ++i) {
                 if (!budgetLeft(timer)) break;
                 population.add(new RHEAIndividual(params.horizon, params.discountFactor, getForwardModel(), stateObs,
-                        getPlayerID(), rnd, params.heuristic, randomPlayer));
+                        getPlayerID(), rnd, heuristicToUse, randomPlayer));
                 fmCalls += population.get(population.size() - 1).length;
                 copyCalls += population.get(population.size() - 1).length;
             }
@@ -147,7 +165,7 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
                 for (int i = 0; i < mastCount; ++i) {
                     if (!budgetLeft(timer)) break;
                     population.add(new RHEAIndividual(params.horizon, params.discountFactor, getForwardModel(), stateObs,
-                            getPlayerID(), rnd, params.heuristic, mastPlayer));
+                            getPlayerID(), rnd, heuristicToUse, mastPlayer));
                     fmCalls += population.get(population.size() - 1).length;
                     copyCalls += population.get(population.size() - 1).length;
                 }
@@ -156,7 +174,7 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
                 for (int i = 0; i < mastCount; ++i) {
                     if (!budgetLeft(timer)) break;
                     population.add(new RHEAIndividual(params.horizon, params.discountFactor, getForwardModel(), stateObs,
-                            getPlayerID(), rnd, params.heuristic, randomPlayer));
+                            getPlayerID(), rnd, heuristicToUse, randomPlayer));
                     fmCalls += population.get(population.size() - 1).length;
                     copyCalls += population.get(population.size() - 1).length;
                 }
@@ -388,6 +406,154 @@ public class   RHEAPlayerAL extends AbstractPlayer implements IAnyTimePlayer {
     public int getBudget() {
         return parameters.budget;
     }
-}
 
+    /**
+     * Enhanced heuristic wrapper for Sushi Go that adds two high-impact features:
+     * 1. Set Completion Bonus System - rewards near-completion states
+     * 2. Competitive Position Tracking - tracks competitive standing for Maki and Pudding
+     */
+    private static class SushiGoEnhancedHeuristic implements IStateHeuristic {
+        private final IStateHeuristic baseHeuristic;
+
+        public SushiGoEnhancedHeuristic(IStateHeuristic baseHeuristic) {
+            this.baseHeuristic = baseHeuristic;
+        }
+
+        @Override
+        public double evaluateState(AbstractGameState state, int playerID) {
+            double baseScore = baseHeuristic.evaluateState(state, playerID);
+
+            if (!(state instanceof SGGameState)) {
+                return baseScore;
+            }
+
+            SGGameState sggs = (SGGameState) state;
+            double enhancedScore = baseScore;
+
+            // === FEATURE 1: SET COMPLETION BONUS SYSTEM ===
+            enhancedScore += evaluateSetCompletionBonuses(sggs, playerID);
+
+            // === FEATURE 2: COMPETITIVE POSITION TRACKING ===
+            enhancedScore += evaluateCompetitivePosition(sggs, playerID);
+
+            return enhancedScore;
+        }
+
+        /**
+         * Feature 1: Set Completion Bonus System
+         * Rewards states where sets are close to completion (Tempura pairs, Sashimi triplets)
+         */
+        private double evaluateSetCompletionBonuses(SGGameState sggs, int playerID) {
+            double bonus = 0.0;
+
+            int tempuraCount = sggs.getPlayedCardTypes(SGCard.SGCardType.Tempura, playerID).getValue();
+            int sashimiCount = sggs.getPlayedCardTypes(SGCard.SGCardType.Sashimi, playerID).getValue();
+
+            // Tempura needs 1 more to complete a pair (worth 5 points)
+            // Reward if we have 1, 3, 5... (odd numbers)
+            if (tempuraCount % 2 == 1) {
+                // Very close to completing a pair - high reward
+                bonus += 2.5; // Worth ~2.5 points when next card completes a 5-point pair
+            } else if (tempuraCount > 0 && tempuraCount % 2 == 0) {
+                // Not close to completion - slight penalty for incomplete sets
+                bonus -= 0.5;
+            }
+
+            // Sashimi needs 1 more to complete a triplet (worth 10 points)
+            // Reward if we have 2, 5, 8... (mod 3 == 2)
+            if (sashimiCount % 3 == 2) {
+                // Very close to completing a triplet - very high reward
+                bonus += 3.3; // Worth ~3.3 points when next card completes a 10-point triplet
+            } else if (sashimiCount % 3 == 1) {
+                // One third complete - moderate reward
+                bonus += 0.8;
+            } else if (sashimiCount > 0 && sashimiCount % 3 == 0) {
+                // Complete sets already, but slight recognition
+                bonus += 0.2;
+            } else if (sashimiCount > 0) {
+                // Not close to completion
+                bonus -= 0.3;
+            }
+
+            // Completed sets recognition bonus
+            int completedTempuraPairs = tempuraCount / 2;
+            bonus += completedTempuraPairs * 0.5;
+
+            int completedSashimiTriplets = sashimiCount / 3;
+            bonus += completedSashimiTriplets * 0.8;
+
+            return bonus;
+        }
+
+        /**
+         * Feature 2: Competitive Position Tracking
+         * Tracks competitive standing for Maki (round-end) and Pudding (game-end)
+         */
+        private double evaluateCompetitivePosition(SGGameState sggs, int playerID) {
+            double bonus = 0.0;
+
+            int myMaki = sggs.getPlayedCardTypes(SGCard.SGCardType.Maki, playerID).getValue();
+            int myPudding = sggs.getPlayedCardTypes(SGCard.SGCardType.Pudding, playerID).getValue();
+            int currentRound = sggs.getRoundCounter();
+
+            // Get opponent statistics
+            double[] otherMakiCounts = IntStream.range(0, sggs.getNPlayers())
+                    .filter(i -> i != playerID)
+                    .mapToDouble(i -> sggs.getPlayedCardTypes(SGCard.SGCardType.Maki, i).getValue())
+                    .toArray();
+
+            double[] otherPuddingCounts = IntStream.range(0, sggs.getNPlayers())
+                    .filter(i -> i != playerID)
+                    .mapToDouble(i -> sggs.getPlayedCardTypes(SGCard.SGCardType.Pudding, i).getValue())
+                    .toArray();
+
+            // === Maki Competitive Position ===
+            if (otherMakiCounts.length > 0) {
+                double maxOtherMaki = Arrays.stream(otherMakiCounts).max().orElse(0.0);
+
+                if (myMaki > maxOtherMaki) {
+                    // Leading - reward based on lead margin
+                    double leadMargin = Math.min(0.5, (myMaki - maxOtherMaki) / 5.0);
+                    bonus += 1.0 + leadMargin;
+                } else if (myMaki < maxOtherMaki) {
+                    // Trailing - penalize based on deficit
+                    double deficit = Math.min(0.5, (maxOtherMaki - myMaki) / 5.0);
+                    bonus -= 1.0 + deficit;
+                }
+
+                // Second place bonus (only valuable if there's a clear leader and we're second)
+                double[] sortedMaki = Arrays.stream(otherMakiCounts).sorted().toArray();
+                double secondMaxMaki = sortedMaki.length >= 2 ? sortedMaki[sortedMaki.length - 2] :
+                        (sortedMaki.length == 1 ? sortedMaki[0] : 0.0);
+
+                if (myMaki < maxOtherMaki && myMaki >= secondMaxMaki && maxOtherMaki > secondMaxMaki) {
+                    bonus += 0.5; // Second place is valuable (3 points if leader is unique)
+                }
+            }
+
+            // === Pudding Competitive Position ===
+            if (otherPuddingCounts.length > 0) {
+                double minOtherPudding = Arrays.stream(otherPuddingCounts).min().orElse(0.0);
+
+                if (myPudding > minOtherPudding) {
+                    // Safe from last place - no penalty
+                } else if (myPudding < minOtherPudding) {
+                    // In danger of being last - strong penalty (critical to avoid -6 points)
+                    bonus -= 2.0;
+                } else {
+                    // Tied for last - slight penalty
+                    bonus -= 1.0;
+                }
+            }
+
+            // === Round-Aware Pudding Priority ===
+            // In round 3, pudding becomes critical for tiebreaker
+            if (currentRound >= 2) { // Round 3 (0-indexed, so round 2 is the third round)
+                bonus += myPudding * 1.5; // Strongly prioritize pudding in final round
+            }
+
+            return bonus;
+        }
+    }
+}
 
