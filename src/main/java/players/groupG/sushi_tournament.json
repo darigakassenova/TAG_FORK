@@ -1,0 +1,20 @@
+{
+  "game": "SushiGo",
+  "nPlayers": 2,
+  "matchups": 10,
+  "mode": "exhaustive",
+  "verbose": false,
+  "listener": "json/listeners/basiclistener.json",
+  "destDir": "src/main/java/players/groupG/results",
+  "playerDirectory": "src/main/java/players/groupG/config",
+  "players": [
+    {
+      "class": "players.groupG.rhea.GroupGRHEAPlayer",
+      "paramsFile": "groupG_rhea.json"
+    },
+    {
+      "class": "players.rhea.RHEAPlayer",
+      "paramsFile": "rhea.json"
+    }
+  ]
+}

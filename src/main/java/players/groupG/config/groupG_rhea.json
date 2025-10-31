@@ -1,0 +1,18 @@
+{
+  "class": "players.groupG.rhea.RHEAParams",
+  "horizon": 12,
+  "discountFactor": 0.9,
+  "populationSize": 20,
+  "eliteCount": 2,
+  "childCount": 10,
+  "selectionType": "TOURNAMENT",
+  "tournamentSize": 4,
+  "crossoverType": "UNIFORM",
+  "shiftLeft": true,
+  "mutationCount": 1,
+  "useMAST": true,
+  "budgetType": "BUDGET_TIME",
+  "budget": 40,
+  "breakMS": 0,
+  "heuristic": "players.groupG.heuristics.SushiGoHeuristic"
+}

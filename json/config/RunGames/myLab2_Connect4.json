@@ -1,0 +1,10 @@
+{
+  "game": "Connect4",
+  "nPlayers": 2,
+  "mode": "exhaustive",
+  "matchups": 100,
+  "verbose": false,
+  "seed": 740234,
+  "listener": "json/listeners/basiclistener.json",
+  "destDir": "outputdir"
+}

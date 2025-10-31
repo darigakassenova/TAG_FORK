@@ -1,0 +1,11 @@
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(PlayerName-1),OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(PlayerName-1),PlayerType(PlayerType-1),PlayerType(PlayerType-0),Winner(PlayerIdx)
+-733141759,SushiGo,3,GAME_OVER,60,0,2,2,groupG_rhea,47.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
+-2139801267,SushiGo,3,GAME_OVER,60,0,2,3,groupG_rhea,55.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
+799834550,SushiGo,3,GAME_OVER,60,0,2,4,groupG_rhea,66.0,46.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
+-1306983346,SushiGo,3,GAME_OVER,61,0,2,5,groupG_rhea,66.0,60.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
+399841660,SushiGo,3,GAME_OVER,61,0,2,6,groupG_rhea,56.0,57.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
+-733141759,SushiGo,3,GAME_OVER,64,0,2,7,rhea,53.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
+-2139801267,SushiGo,3,GAME_OVER,61,0,2,8,rhea,55.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
+799834550,SushiGo,3,GAME_OVER,63,0,2,9,rhea,61.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
+-1306983346,SushiGo,3,GAME_OVER,62,0,2,10,rhea,63.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
+399841660,SushiGo,3,GAME_OVER,60,0,2,11,rhea,58.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
