@@ -12,7 +12,7 @@
   "mutationCount": 1,
   "useMAST": true,
   "budgetType": "BUDGET_TIME",
-  "budget": 40,
+  "budget": 100,
   "breakMS": 0,
   "heuristic": "players.groupG.heuristics.SushiGoHeuristic"
 }

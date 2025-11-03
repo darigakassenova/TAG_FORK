@@ -1,11 +1,97 @@
-GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(PlayerName-1),OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(PlayerName-1),PlayerType(PlayerType-1),PlayerType(PlayerType-0),Winner(PlayerIdx)
--733141759,SushiGo,3,GAME_OVER,60,0,2,2,groupG_rhea,47.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--2139801267,SushiGo,3,GAME_OVER,60,0,2,3,groupG_rhea,55.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-799834550,SushiGo,3,GAME_OVER,60,0,2,4,groupG_rhea,66.0,46.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1306983346,SushiGo,3,GAME_OVER,61,0,2,5,groupG_rhea,66.0,60.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-399841660,SushiGo,3,GAME_OVER,61,0,2,6,groupG_rhea,56.0,57.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--733141759,SushiGo,3,GAME_OVER,64,0,2,7,rhea,53.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--2139801267,SushiGo,3,GAME_OVER,61,0,2,8,rhea,55.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-799834550,SushiGo,3,GAME_OVER,63,0,2,9,rhea,61.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1306983346,SushiGo,3,GAME_OVER,62,0,2,10,rhea,63.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-399841660,SushiGo,3,GAME_OVER,60,0,2,11,rhea,58.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(Player-2),OrdinalPosition(PlayerName-1),OrdinalPosition(Player-2 rank),OrdinalPosition(PlayerName-2),FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(Player-2),FinalScore(PlayerName-1),FinalScore(PlayerName-2),PlayerType(PlayerType-1),PlayerType(PlayerType-0),PlayerType(PlayerType-2),Winner(PlayerIdx)
+1359684112,SushiGo,3,GAME_OVER,82,0,3,2,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,Basic MCTS,41.0,34.0,42.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,2
+-531446689,SushiGo,3,GAME_OVER,83,0,3,3,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,53.0,29.0,44.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+-156678995,SushiGo,3,GAME_OVER,81,0,3,4,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,52.0,40.0,46.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1562707510,SushiGo,3,GAME_OVER,81,0,3,5,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,Basic MCTS,46.0,26.0,49.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,2
+-626141890,SushiGo,3,GAME_OVER,83,0,3,6,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,62.0,39.0,44.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+-149301436,SushiGo,3,GAME_OVER,81,0,3,7,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,54.0,30.0,43.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+557031997,SushiGo,3,GAME_OVER,83,0,3,8,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,52.0,31.0,44.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+69343993,SushiGo,3,GAME_OVER,82,0,3,9,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,Basic MCTS,23.0,38.0,39.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,2
+62064139,SushiGo,3,GAME_OVER,83,0,3,10,2,Basic MCTS,2,1,1,3,groupG_rhea,3,rhea,Basic MCTS,38.0,41.0,35.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,0
+1180674990,SushiGo,3,GAME_OVER,83,0,3,11,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,49.0,40.0,42.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1703193968,SushiGo,3,GAME_OVER,82,0,3,12,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,45.0,41.0,42.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+1963559067,SushiGo,3,GAME_OVER,82,0,3,13,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,51.0,30.0,34.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+1833966880,SushiGo,3,GAME_OVER,82,0,3,14,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,Basic MCTS,36.0,29.0,42.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,2
+2124926562,SushiGo,3,GAME_OVER,82,0,3,15,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,58.0,35.0,56.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+-2015337899,SushiGo,3,GAME_OVER,82,0,3,16,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,52.0,34.0,34.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+1904817050,SushiGo,3,GAME_OVER,81,0,3,17,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,Basic MCTS,53.0,44.0,44.0,groupG_rhea,rhea,groupG_rhea,Basic MCTS,rhea,1
+1359684112,SushiGo,3,GAME_OVER,82,0,3,18,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,Basic MCTS,56.0,31.0,46.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-531446689,SushiGo,3,GAME_OVER,83,0,3,19,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,Basic MCTS,53.0,41.0,40.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-156678995,SushiGo,3,GAME_OVER,81,0,3,20,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,Basic MCTS,54.0,29.0,51.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1562707510,SushiGo,3,GAME_OVER,81,0,3,21,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,Basic MCTS,40.0,26.0,53.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-626141890,SushiGo,3,GAME_OVER,81,0,3,22,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,Basic MCTS,53.0,44.0,43.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-149301436,SushiGo,3,GAME_OVER,84,0,3,23,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,Basic MCTS,32.0,35.0,45.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+557031997,SushiGo,3,GAME_OVER,82,0,3,24,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,Basic MCTS,50.0,29.0,42.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+69343993,SushiGo,3,GAME_OVER,84,0,3,25,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,Basic MCTS,45.0,48.0,45.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+62064139,SushiGo,3,GAME_OVER,82,0,3,26,2,Basic MCTS,2,1,1,3,rhea,3,groupG_rhea,Basic MCTS,49.0,58.0,44.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+1180674990,SushiGo,3,GAME_OVER,82,0,3,27,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,Basic MCTS,41.0,40.0,50.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1703193968,SushiGo,3,GAME_OVER,82,0,3,28,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,Basic MCTS,38.0,39.0,49.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1963559067,SushiGo,3,GAME_OVER,82,0,3,29,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,Basic MCTS,30.0,43.0,41.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+1833966880,SushiGo,3,GAME_OVER,81,0,3,30,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,Basic MCTS,43.0,29.0,26.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+2124926562,SushiGo,3,GAME_OVER,81,0,3,31,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,Basic MCTS,47.0,31.0,45.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-2015337899,SushiGo,3,GAME_OVER,83,0,3,32,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,Basic MCTS,37.0,38.0,47.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1904817050,SushiGo,3,GAME_OVER,82,0,3,33,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,Basic MCTS,39.0,37.0,49.0,rhea,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1359684112,SushiGo,3,GAME_OVER,82,0,3,34,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,groupG_rhea,35.0,55.0,35.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+-531446689,SushiGo,3,GAME_OVER,81,0,3,35,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,34.0,56.0,51.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+-156678995,SushiGo,3,GAME_OVER,82,0,3,36,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,groupG_rhea,41.0,54.0,35.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+-1562707510,SushiGo,3,GAME_OVER,85,0,3,37,1,groupG_rhea,1,2,2,3,Basic MCTS,3,rhea,groupG_rhea,67.0,51.0,29.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,1
+-626141890,SushiGo,3,GAME_OVER,81,0,3,38,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,33.0,46.0,34.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+-149301436,SushiGo,3,GAME_OVER,82,0,3,39,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,35.0,49.0,36.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+557031997,SushiGo,3,GAME_OVER,82,0,3,40,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,groupG_rhea,21.0,41.0,51.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,2
+69343993,SushiGo,3,GAME_OVER,82,0,3,41,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,groupG_rhea,35.0,46.0,31.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+62064139,SushiGo,3,GAME_OVER,83,0,3,42,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,38.0,53.0,50.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+1180674990,SushiGo,3,GAME_OVER,81,0,3,43,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,30.0,49.0,43.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+-1703193968,SushiGo,3,GAME_OVER,83,0,3,44,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,groupG_rhea,44.0,42.0,46.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,2
+1963559067,SushiGo,3,GAME_OVER,83,0,3,45,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,36.0,48.0,41.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+1833966880,SushiGo,3,GAME_OVER,84,0,3,46,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,groupG_rhea,25.0,41.0,57.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,2
+2124926562,SushiGo,3,GAME_OVER,82,0,3,47,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,groupG_rhea,35.0,55.0,63.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,2
+-2015337899,SushiGo,3,GAME_OVER,81,0,3,48,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,33.0,45.0,43.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+1904817050,SushiGo,3,GAME_OVER,81,0,3,49,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,groupG_rhea,30.0,48.0,33.0,Basic MCTS,rhea,Basic MCTS,groupG_rhea,rhea,0
+1359684112,SushiGo,3,GAME_OVER,85,0,3,50,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,41.0,50.0,34.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-531446689,SushiGo,3,GAME_OVER,81,0,3,51,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,35.0,44.0,28.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-156678995,SushiGo,3,GAME_OVER,81,0,3,52,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,groupG_rhea,49.0,42.0,51.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+-1562707510,SushiGo,3,GAME_OVER,83,0,3,53,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,40.0,44.0,33.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-626141890,SushiGo,3,GAME_OVER,81,0,3,54,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,39.0,59.0,33.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-149301436,SushiGo,3,GAME_OVER,82,0,3,55,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,52.0,61.0,27.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+557031997,SushiGo,3,GAME_OVER,81,0,3,56,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,groupG_rhea,54.0,49.0,55.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+69343993,SushiGo,3,GAME_OVER,81,0,3,57,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,40.0,44.0,35.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+62064139,SushiGo,3,GAME_OVER,82,0,3,58,1,groupG_rhea,1,3,3,1,rhea,1,Basic MCTS,groupG_rhea,51.0,42.0,51.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,-1
+1180674990,SushiGo,3,GAME_OVER,82,0,3,59,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,37.0,55.0,29.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-1703193968,SushiGo,3,GAME_OVER,81,0,3,60,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,42.0,46.0,33.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1963559067,SushiGo,3,GAME_OVER,84,0,3,61,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,groupG_rhea,47.0,44.0,37.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1833966880,SushiGo,3,GAME_OVER,82,0,3,62,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,groupG_rhea,28.0,49.0,36.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+2124926562,SushiGo,3,GAME_OVER,82,0,3,63,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,groupG_rhea,41.0,44.0,41.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-2015337899,SushiGo,3,GAME_OVER,81,0,3,64,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,groupG_rhea,31.0,56.0,32.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1904817050,SushiGo,3,GAME_OVER,81,0,3,65,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,groupG_rhea,49.0,40.0,33.0,rhea,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1359684112,SushiGo,3,GAME_OVER,82,0,3,66,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,rhea,50.0,52.0,44.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-531446689,SushiGo,3,GAME_OVER,81,0,3,67,1,rhea,1,3,3,2,Basic MCTS,2,groupG_rhea,rhea,43.0,24.0,34.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+-156678995,SushiGo,3,GAME_OVER,81,0,3,68,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,34.0,46.0,53.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1562707510,SushiGo,3,GAME_OVER,81,0,3,69,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,30.0,40.0,42.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-626141890,SushiGo,3,GAME_OVER,82,0,3,70,1,rhea,1,2,2,3,Basic MCTS,3,groupG_rhea,rhea,47.0,42.0,31.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+-149301436,SushiGo,3,GAME_OVER,82,0,3,71,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,22.0,54.0,57.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+557031997,SushiGo,3,GAME_OVER,81,0,3,72,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,40.0,43.0,48.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+69343993,SushiGo,3,GAME_OVER,81,0,3,73,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,rhea,40.0,57.0,46.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+62064139,SushiGo,3,GAME_OVER,83,0,3,74,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,28.0,42.0,47.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1180674990,SushiGo,3,GAME_OVER,82,0,3,75,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,32.0,45.0,54.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1703193968,SushiGo,3,GAME_OVER,81,0,3,76,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,rhea,44.0,32.0,52.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1963559067,SushiGo,3,GAME_OVER,83,0,3,77,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,37.0,40.0,52.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1833966880,SushiGo,3,GAME_OVER,82,0,3,78,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,rhea,33.0,55.0,35.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+2124926562,SushiGo,3,GAME_OVER,82,0,3,79,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,42.0,44.0,56.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-2015337899,SushiGo,3,GAME_OVER,81,0,3,80,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,rhea,28.0,42.0,52.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1904817050,SushiGo,3,GAME_OVER,81,0,3,81,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,rhea,42.0,41.0,48.0,Basic MCTS,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1359684112,SushiGo,3,GAME_OVER,83,0,3,82,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,rhea,49.0,51.0,37.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-531446689,SushiGo,3,GAME_OVER,81,0,3,83,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,rhea,38.0,51.0,31.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-156678995,SushiGo,3,GAME_OVER,84,0,3,84,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,rhea,39.0,46.0,40.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1562707510,SushiGo,3,GAME_OVER,81,0,3,85,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,rhea,44.0,51.0,39.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-626141890,SushiGo,3,GAME_OVER,81,0,3,86,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,rhea,42.0,37.0,49.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-149301436,SushiGo,3,GAME_OVER,83,0,3,87,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,rhea,51.0,51.0,37.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+557031997,SushiGo,3,GAME_OVER,84,0,3,88,3,rhea,3,2,2,1,groupG_rhea,1,Basic MCTS,rhea,38.0,39.0,41.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+69343993,SushiGo,3,GAME_OVER,82,0,3,89,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,rhea,52.0,43.0,35.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+62064139,SushiGo,3,GAME_OVER,84,0,3,90,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,rhea,50.0,42.0,38.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1180674990,SushiGo,3,GAME_OVER,82,0,3,91,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,rhea,37.0,50.0,34.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1703193968,SushiGo,3,GAME_OVER,82,0,3,92,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,rhea,48.0,46.0,41.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1963559067,SushiGo,3,GAME_OVER,82,0,3,93,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,rhea,31.0,43.0,33.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+1833966880,SushiGo,3,GAME_OVER,84,0,3,94,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,rhea,40.0,41.0,28.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+2124926562,SushiGo,3,GAME_OVER,83,0,3,95,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,rhea,56.0,53.0,35.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-2015337899,SushiGo,3,GAME_OVER,81,0,3,96,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,rhea,48.0,33.0,40.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1904817050,SushiGo,3,GAME_OVER,81,0,3,97,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,rhea,35.0,31.0,40.0,groupG_rhea,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2

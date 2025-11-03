@@ -37,3 +37,37 @@ rhea won 30,0% of the 10 games against groupG_rhea.
 groupG_rhea: Win rate 0,70 +/- 0,145	Mean Ordinal 1,30 +/- 0,14
 rhea: Win rate 0,30 +/- 0,145	Mean Ordinal 1,70 +/- 0,14
 
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+groupG_rhea got 63,00 points. groupG_rhea won 63,0% of the 100 games of the tournament. groupG_rhea won 63,0% of the 100 games it played during the tournament.
+groupG_rhea got a mean score of 56,46.
+groupG_rhea won 63,0% of the 100 games against rhea.
+
+rhea got 37,00 points. rhea won 37,0% of the 100 games of the tournament. rhea won 37,0% of the 100 games it played during the tournament.
+rhea got a mean score of 56,40.
+rhea won 37,0% of the 100 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+groupG_rhea: Win rate 0,63 +/- 0,048	Mean Ordinal 1,37 +/- 0,05
+rhea: Win rate 0,37 +/- 0,048	Mean Ordinal 1,63 +/- 0,05
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 96, GamesPerMatchup: 16
+basicmcts got 12,50 points. basicmcts won 12,5% of the 96 games of the tournament. basicmcts won 12,5% of the 96 games it played during the tournament.
+basicmcts got a mean score of 36,55.
+basicmcts won 12,5% of the 96 games against groupG_rhea.
+basicmcts won 12,5% of the 96 games against rhea.
+
+groupG_rhea got 56,00 points. groupG_rhea won 58,3% of the 96 games of the tournament. groupG_rhea won 58,3% of the 96 games it played during the tournament.
+groupG_rhea got a mean score of 46,65.
+groupG_rhea won 58,3% of the 96 games against basicmcts.
+groupG_rhea won 58,3% of the 96 games against rhea.
+
+rhea got 27,50 points. rhea won 28,1% of the 96 games of the tournament. rhea won 28,1% of the 96 games it played during the tournament.
+rhea got a mean score of 43,21.
+rhea won 28,1% of the 96 games against basicmcts.
+rhea won 28,1% of the 96 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+groupG_rhea: Win rate 0,58 +/- 0,050	Mean Ordinal 1,56 +/- 0,07
+rhea: Win rate 0,29 +/- 0,046	Mean Ordinal 1,90 +/- 0,07
+basicmcts: Win rate 0,13 +/- 0,034	Mean Ordinal 2,53 +/- 0,07
+
