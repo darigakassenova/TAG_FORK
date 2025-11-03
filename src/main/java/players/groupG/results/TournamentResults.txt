@@ -71,3 +71,34 @@ groupG_rhea: Win rate 0,58 +/- 0,050	Mean Ordinal 1,56 +/- 0,07
 rhea: Win rate 0,29 +/- 0,046	Mean Ordinal 1,90 +/- 0,07
 basicmcts: Win rate 0,13 +/- 0,034	Mean Ordinal 2,53 +/- 0,07
 
+Game: SushiGo, Players: 4, Mode: EXHAUSTIVE, TotalGames: 96, GamesPerMatchup: 4
+basicmcts got 17,50 points. basicmcts won 17,7% of the 96 games of the tournament. basicmcts won 17,7% of the 96 games it played during the tournament.
+basicmcts got a mean score of 34,03.
+basicmcts won 17,7% of the 96 games against rmhc.
+basicmcts won 17,7% of the 96 games against groupG_rhea.
+basicmcts won 17,7% of the 96 games against rhea.
+
+rmhc got 1,00 points. rmhc won 1,0% of the 96 games of the tournament. rmhc won 1,0% of the 96 games it played during the tournament.
+rmhc got a mean score of 25,02.
+rmhc won 1,0% of the 96 games against basicmcts.
+rmhc won 1,0% of the 96 games against groupG_rhea.
+rmhc won 1,0% of the 96 games against rhea.
+
+groupG_rhea got 45,00 points. groupG_rhea won 46,9% of the 96 games of the tournament. groupG_rhea won 46,9% of the 96 games it played during the tournament.
+groupG_rhea got a mean score of 39,17.
+groupG_rhea won 46,9% of the 96 games against basicmcts.
+groupG_rhea won 46,9% of the 96 games against rmhc.
+groupG_rhea won 46,9% of the 96 games against rhea.
+
+rhea got 32,50 points. rhea won 33,3% of the 96 games of the tournament. rhea won 33,3% of the 96 games it played during the tournament.
+rhea got a mean score of 38,59.
+rhea won 33,3% of the 96 games against basicmcts.
+rhea won 33,3% of the 96 games against rmhc.
+rhea won 33,3% of the 96 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+groupG_rhea: Win rate 0,47 +/- 0,051	Mean Ordinal 1,77 +/- 0,09
+rhea: Win rate 0,34 +/- 0,048	Mean Ordinal 2,03 +/- 0,09
+basicmcts: Win rate 0,18 +/- 0,039	Mean Ordinal 2,53 +/- 0,10
+rmhc: Win rate 0,01 +/- 0,010	Mean Ordinal 3,64 +/- 0,07
+
