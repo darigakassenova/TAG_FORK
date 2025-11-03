@@ -1,6 +1,6 @@
 {
   "game": "SushiGo",
-  "nPlayers": 4,
+  "nPlayers": 3,
   "matchups": 100,
   "mode": "exhaustive",
   "verbose": false,
@@ -19,10 +19,6 @@
     {
       "class": "players.basicMCTS.BasicMCTSPlayer",
       "paramsFile": "basicmcts.json"
-    },
-    {
-      "class": "players.rmhc.RMHCParams",
-      "paramsFile": "rmhc.json"
     }
   ]
 }

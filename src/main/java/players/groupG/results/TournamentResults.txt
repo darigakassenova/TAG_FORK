@@ -102,3 +102,90 @@ rhea: Win rate 0,34 +/- 0,048	Mean Ordinal 2,03 +/- 0,09
 basicmcts: Win rate 0,18 +/- 0,039	Mean Ordinal 2,53 +/- 0,10
 rmhc: Win rate 0,01 +/- 0,010	Mean Ordinal 3,64 +/- 0,07
 
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 24, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0,015	basicmcts
+	0,000	rmhc
+	0,984	groupG_rhea
+	0,001	rhea
+
+Transition matrix for alpha = 10.0
+0,015	0,000	0,978	0,007	
+0,480	0,000	0,480	0,039	
+0,015	0,000	0,984	0,001	
+0,001	0,000	0,998	0,001	
+B matrix for alpha = 10.0
+1,188	0,477	1,225	0,996	
+0,477	0,463	0,480	0,480	
+1,225	0,480	4,122	1,009	
+0,996	0,480	1,009	0,998	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for basicmcts
+		basicmcts
+		rhea
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0,037	basicmcts
+	0,014	rmhc
+	0,935	groupG_rhea
+	0,013	rhea
+
+Transition matrix for alpha = 10.0
+0,032	0,000	0,894	0,073	
+0,332	0,005	0,332	0,332	
+0,034	0,015	0,945	0,006	
+0,003	0,000	0,990	0,007	
+B matrix for alpha = 10.0
+0,918	0,334	1,020	0,999	
+0,334	0,330	0,343	0,333	
+1,020	0,343	3,679	1,124	
+0,999	0,333	1,124	1,096	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for basicmcts
+		basicmcts
+		rhea
+
+basicmcts got 6,00 points. basicmcts won 25,0% of the 24 games of the tournament. basicmcts won 33,3% of the 18 games it played during the tournament.
+basicmcts got a mean score of 48,50.
+basicmcts won 41,7% of the 12 games against rmhc.
+basicmcts won 33,3% of the 12 games against groupG_rhea.
+basicmcts won 25,0% of the 12 games against rhea.
+
+rmhc got 1,00 points. rmhc won 4,2% of the 24 games of the tournament. rmhc won 5,6% of the 18 games it played during the tournament.
+rmhc got a mean score of 33,39.
+rmhc won 0,0% of the 12 games against basicmcts.
+rmhc won 8,3% of the 12 games against groupG_rhea.
+rmhc won 8,3% of the 12 games against rhea.
+
+groupG_rhea got 11,00 points. groupG_rhea won 45,8% of the 24 games of the tournament. groupG_rhea won 61,1% of the 18 games it played during the tournament.
+groupG_rhea got a mean score of 50,17.
+groupG_rhea won 66,7% of the 12 games against basicmcts.
+groupG_rhea won 50,0% of the 12 games against rmhc.
+groupG_rhea won 66,7% of the 12 games against rhea.
+
+rhea got 6,00 points. rhea won 25,0% of the 24 games of the tournament. rhea won 33,3% of the 18 games it played during the tournament.
+rhea got a mean score of 47,56.
+rhea won 33,3% of the 12 games against basicmcts.
+rhea won 50,0% of the 12 games against rmhc.
+rhea won 16,7% of the 12 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+groupG_rhea: Win rate 0,61 +/- 0,115	Mean Ordinal 1,44 +/- 0,14
+basicmcts: Win rate 0,33 +/- 0,111	Mean Ordinal 1,78 +/- 0,15
+rhea: Win rate 0,33 +/- 0,111	Mean Ordinal 1,94 +/- 0,18
+rmhc: Win rate 0,06 +/- 0,054	Mean Ordinal 2,83 +/- 0,12
+
+Alpha-rank by Win Rate
+	groupG_rhea                   	0,94
+	basicmcts                     	0,04
+	rmhc                          	0,01
+	rhea                          	0,01
+
+Alpha-rank by Ordinal Position
+	groupG_rhea                   	0,98
+	basicmcts                     	0,02
+	rhea                          	0,00
+	rmhc                          	0,00
+
