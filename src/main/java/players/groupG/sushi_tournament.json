@@ -1,7 +1,7 @@
 {
   "game": "SushiGo",
-  "nPlayers": 2,
-  "matchups": 10,
+  "nPlayers": 3,
+  "matchups": 100,
   "mode": "exhaustive",
   "verbose": false,
   "listener": "json/listeners/basiclistener.json",
@@ -15,6 +15,10 @@
     {
       "class": "players.rhea.RHEAPlayer",
       "paramsFile": "rhea.json"
+    },
+    {
+      "class": "players.basicMCTS.BasicMCTSPlayer",
+      "paramsFile": "basicmcts.json"
     }
   ]
 }
