@@ -46,58 +46,37 @@ public class   GroupGRHEAPlayer extends AbstractPlayer implements IAnyTimePlayer
     public RHEAParams getParameters() {
         return (RHEAParams) parameters;
     }
-    @Override
-    public void initializePlayer(AbstractGameState state) {
-        MASTStatistics = new ArrayList<>();
-        for (int i = 0; i < state.getNPlayers(); i++)
-            MASTStatistics.add(new HashMap<>());
-        population = new ArrayList<>();
 
-        // Track game type for domain-specific optimizations
-        this.gameType = state.getGameType();
-
-        // Initialize MAST with domain knowledge for Sushi Go
-        if (gameType == GameType.SushiGo) {
-            initializeSushiGoMAST(state.getNPlayers());
-            // Wrap the heuristic with Sushi Go enhancements
-            RHEAParams params = getParameters();
-            if (params.heuristic != null) {
-                enhancedHeuristic = new SushiGoEnhancedHeuristic(params.heuristic);
-            }
-        }
-    }
-
-    /**
-     * Initialize MAST statistics with domain knowledge for Sushi Go
-     * High-value cards get better initial scores
-     */
+/**
+ * Initialize MAST statistics with more balanced and adaptive priors for Sushi Go.
+ * Lower initial visits and values prevent early over-bias while still giving guidance.
+ */
     private void initializeSushiGoMAST(int nPlayers) {
-        // Very high value cards (sashimi, high nigiri)
+        // Value groupings
         String[] highValueCards = {"Sashimi", "SquidNigiri", "Tempura"};
-        // Medium value cards (good with wasabi or for sets)
         String[] mediumValueCards = {"SalmonNigiri", "Wasabi", "EggNigiri", "Dumpling"};
-        // Defensive/situational cards (pudding for tiebreak, chopsticks for flexibility)
         String[] situationalCards = {"Pudding", "Chopsticks"};
 
         for (int p = 0; p < nPlayers; p++) {
             Map<Object, Pair<Integer, Double>> stats = MASTStatistics.get(p);
 
-            // Initialize high-value cards with good prior
+            // High-value cards: important but not overpowered
             for (String card : highValueCards) {
-                stats.put("CardType_" + card, new Pair<>(20, 100.0));  // ~5.0 value per visit
+                stats.put("CardType_" + card, new Pair<>(5, 15.0));   // ≈3.0 value/visit
             }
 
-            // Initialize medium-value cards
+            // Medium-value cards: modest bias
             for (String card : mediumValueCards) {
-                stats.put("CardType_" + card, new Pair<>(20, 60.0));  // ~3.0 value per visit
+                stats.put("CardType_" + card, new Pair<>(5, 10.0));   // ≈2.0 value/visit
             }
 
-            // Initialize situational cards (lower priority but available)
+            // Situational cards: mild encouragement only
             for (String card : situationalCards) {
-                stats.put("CardType_" + card, new Pair<>(20, 30.0));  // ~1.5 value per visit
+                stats.put("CardType_" + card, new Pair<>(3, 4.0));    // ≈1.3 value/visit
             }
         }
     }
+
 
     @Override
     public AbstractAction _getAction(AbstractGameState stateObs, List<AbstractAction> possibleActions) {

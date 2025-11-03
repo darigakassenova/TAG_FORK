@@ -1,39 +1,106 @@
-Game: SushiGo, Players: 4, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
-groupG_rhea got 1,00 points. groupG_rhea won 100,0% of the 1 games of the tournament. groupG_rhea won 50,0% of the 2 games it played during the tournament.
-groupG_rhea got a mean score of 43,00.
-groupG_rhea won 50,0% of the 4 games against rhea.
 
-rhea got 0,00 points. rhea won 0,0% of the 1 games of the tournament. rhea won 0,0% of the 2 games it played during the tournament.
-rhea got a mean score of 33,00.
-rhea won 0,0% of the 4 games against groupG_rhea.
 
----- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
-groupG_rhea: Win rate 0,50 +/- 0,354	Mean Ordinal 1,50 +/- 0,35
-rhea: Win rate 0,00 +/- 0,000	Mean Ordinal 3,50 +/- 0,35
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 500, GamesPerMatchup: 250
+groupG_rhea got 185,50 points. groupG_rhea won 37,0% of the 500 games of the tournament. groupG_rhea won 37,0% of the 500 games it played during the tournament.
+groupG_rhea got a mean score of 54,28.
+groupG_rhea won 37,0% of the 500 games against rhea.
 
-Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 1, GamesPerMatchup: 1
-groupG_rhea got 1,00 points. groupG_rhea won 100,0% of the 1 games of the tournament. groupG_rhea won 100,0% of the 1 games it played during the tournament.
-groupG_rhea got a mean score of 86,00.
-groupG_rhea won 100,0% of the 1 games against rhea.
-
-rhea got 0,00 points. rhea won 0,0% of the 1 games of the tournament. rhea won 0,0% of the 1 games it played during the tournament.
-rhea got a mean score of 56,00.
-rhea won 0,0% of the 1 games against groupG_rhea.
+rhea got 314,50 points. rhea won 62,8% of the 500 games of the tournament. rhea won 62,8% of the 500 games it played during the tournament.
+rhea got a mean score of 58,12.
+rhea won 62,8% of the 500 games against groupG_rhea.
 
 ---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
-groupG_rhea: Win rate 1,00 +/- 0,000	Mean Ordinal 1,00 +/- 0,00
-rhea: Win rate 0,00 +/- 0,000	Mean Ordinal 2,00 +/- 0,00
+rhea: Win rate 0,63 +/- 0,022	Mean Ordinal 1,37 +/- 0,02
+groupG_rhea: Win rate 0,37 +/- 0,022	Mean Ordinal 1,63 +/- 0,02
 
-Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 10, GamesPerMatchup: 5
-groupG_rhea got 7,00 points. groupG_rhea won 70,0% of the 10 games of the tournament. groupG_rhea won 70,0% of the 10 games it played during the tournament.
-groupG_rhea got a mean score of 56,50.
-groupG_rhea won 70,0% of the 10 games against rhea.
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 500, GamesPerMatchup: 250
+groupG_rhea got 182,00 points. groupG_rhea won 36,2% of the 500 games of the tournament. groupG_rhea won 36,2% of the 500 games it played during the tournament.
+groupG_rhea got a mean score of 54,33.
+groupG_rhea won 36,2% of the 500 games against rhea.
 
-rhea got 3,00 points. rhea won 30,0% of the 10 games of the tournament. rhea won 30,0% of the 10 games it played during the tournament.
-rhea got a mean score of 56,20.
-rhea won 30,0% of the 10 games against groupG_rhea.
+rhea got 318,00 points. rhea won 63,4% of the 500 games of the tournament. rhea won 63,4% of the 500 games it played during the tournament.
+rhea got a mean score of 59,89.
+rhea won 63,4% of the 500 games against groupG_rhea.
 
 ---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
-groupG_rhea: Win rate 0,70 +/- 0,145	Mean Ordinal 1,30 +/- 0,14
-rhea: Win rate 0,30 +/- 0,145	Mean Ordinal 1,70 +/- 0,14
+rhea: Win rate 0,64 +/- 0,021	Mean Ordinal 1,36 +/- 0,02
+groupG_rhea: Win rate 0,36 +/- 0,021	Mean Ordinal 1,63 +/- 0,02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+groupG_rhea got 26,00 points. groupG_rhea won 26,0% of the 100 games of the tournament. groupG_rhea won 26,0% of the 100 games it played during the tournament.
+groupG_rhea got a mean score of 53,78.
+groupG_rhea won 26,0% of the 100 games against rhea.
+
+rhea got 74,00 points. rhea won 74,0% of the 100 games of the tournament. rhea won 74,0% of the 100 games it played during the tournament.
+rhea got a mean score of 59,97.
+rhea won 74,0% of the 100 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0,74 +/- 0,044	Mean Ordinal 1,26 +/- 0,04
+groupG_rhea: Win rate 0,26 +/- 0,044	Mean Ordinal 1,74 +/- 0,04
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+groupG_rhea got 42,00 points. groupG_rhea won 42,0% of the 100 games of the tournament. groupG_rhea won 42,0% of the 100 games it played during the tournament.
+groupG_rhea got a mean score of 58,11.
+groupG_rhea won 42,0% of the 100 games against rhea.
+
+rhea got 58,00 points. rhea won 58,0% of the 100 games of the tournament. rhea won 58,0% of the 100 games it played during the tournament.
+rhea got a mean score of 59,68.
+rhea won 58,0% of the 100 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0,58 +/- 0,049	Mean Ordinal 1,42 +/- 0,05
+groupG_rhea: Win rate 0,42 +/- 0,049	Mean Ordinal 1,58 +/- 0,05
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 100, GamesPerMatchup: 50
+groupG_rhea got 53,00 points. groupG_rhea won 53,0% of the 100 games of the tournament. groupG_rhea won 53,0% of the 100 games it played during the tournament.
+groupG_rhea got a mean score of 56,81.
+groupG_rhea won 53,0% of the 100 games against rhea.
+
+rhea got 47,00 points. rhea won 47,0% of the 100 games of the tournament. rhea won 47,0% of the 100 games it played during the tournament.
+rhea got a mean score of 57,68.
+rhea won 47,0% of the 100 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+groupG_rhea: Win rate 0,53 +/- 0,050	Mean Ordinal 1,47 +/- 0,05
+rhea: Win rate 0,47 +/- 0,050	Mean Ordinal 1,53 +/- 0,05
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 500, GamesPerMatchup: 250
+groupG_rhea got 209,00 points. groupG_rhea won 41,8% of the 500 games of the tournament. groupG_rhea won 41,8% of the 500 games it played during the tournament.
+groupG_rhea got a mean score of 55,40.
+groupG_rhea won 41,8% of the 500 games against rhea.
+
+rhea got 291,00 points. rhea won 58,2% of the 500 games of the tournament. rhea won 58,2% of the 500 games it played during the tournament.
+rhea got a mean score of 57,15.
+rhea won 58,2% of the 500 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0,58 +/- 0,022	Mean Ordinal 1,42 +/- 0,02
+groupG_rhea: Win rate 0,42 +/- 0,022	Mean Ordinal 1,58 +/- 0,02
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 500, GamesPerMatchup: 500
+groupG_rhea got 231,50 points. groupG_rhea won 46,0% of the 500 games of the tournament. groupG_rhea won 46,0% of the 500 games it played during the tournament.
+groupG_rhea got a mean score of 56,73.
+groupG_rhea won 46,0% of the 500 games against rhea.
+
+rhea got 268,50 points. rhea won 53,4% of the 500 games of the tournament. rhea won 53,4% of the 500 games it played during the tournament.
+rhea got a mean score of 58,44.
+rhea won 53,4% of the 500 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0,54 +/- 0,022	Mean Ordinal 1,46 +/- 0,02
+groupG_rhea: Win rate 0,46 +/- 0,022	Mean Ordinal 1,53 +/- 0,02
+
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 400, GamesPerMatchup: 400
+groupG_rhea got 192,50 points. groupG_rhea won 48,0% of the 400 games of the tournament. groupG_rhea won 48,0% of the 400 games it played during the tournament.
+groupG_rhea got a mean score of 56,43.
+groupG_rhea won 48,0% of the 400 games against rhea.
+
+rhea got 207,50 points. rhea won 51,8% of the 400 games of the tournament. rhea won 51,8% of the 400 games it played during the tournament.
+rhea got a mean score of 57,38.
+rhea won 51,8% of the 400 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0,52 +/- 0,025	Mean Ordinal 1,48 +/- 0,02
+groupG_rhea: Win rate 0,48 +/- 0,025	Mean Ordinal 1,52 +/- 0,02
 
