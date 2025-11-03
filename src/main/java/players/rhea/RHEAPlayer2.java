@@ -20,7 +20,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class   RHEAPlayer extends AbstractPlayer implements IAnyTimePlayer {
+public class   RHEAPlayer2 extends AbstractPlayer implements IAnyTimePlayer {
     private static final AbstractPlayer randomPlayer = new RandomPlayer();
     List<Map<Object, Pair<Integer, Double>>> MASTStatistics; // a list of one Map per player. Action -> (visits, totValue)
     protected List<RHEAIndividual> population = new ArrayList<>();
@@ -34,11 +34,11 @@ public class   RHEAPlayer extends AbstractPlayer implements IAnyTimePlayer {
     private GameType gameType;  // Track game type for domain-specific optimizations
     private IStateHeuristic enhancedHeuristic;  // Wrapped heuristic with Sushi Go enhancements
 
-    public RHEAPlayer(RHEAParams params) {
+    public RHEAPlayer2(RHEAParams params) {
         super(params, "RHEAPlayer");
     }
 
-    public RHEAPlayer(RHEAParams params, String name) {
+    public RHEAPlayer2(RHEAParams params, String name) {
         super(params, name);
     }
 
@@ -216,10 +216,10 @@ public class   RHEAPlayer extends AbstractPlayer implements IAnyTimePlayer {
     }
 
     @Override
-    public RHEAPlayer copy() {
+    public RHEAPlayer2 copy() {
         RHEAParams newParams = (RHEAParams) parameters.copy();
         newParams.setRandomSeed(rnd.nextInt());
-        RHEAPlayer retValue = new RHEAPlayer(newParams, toString());
+        RHEAPlayer2 retValue = new RHEAPlayer2(newParams, toString());
         retValue.setForwardModel(getForwardModel());
         return retValue;
     }
@@ -556,4 +556,3 @@ public class   RHEAPlayer extends AbstractPlayer implements IAnyTimePlayer {
         }
     }
 }
-
