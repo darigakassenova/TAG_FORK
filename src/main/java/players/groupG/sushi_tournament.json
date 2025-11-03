@@ -1,7 +1,7 @@
 {
   "game": "SushiGo",
   "nPlayers": 3,
-  "matchups": 100,
+  "matchups": 300,
   "mode": "exhaustive",
   "verbose": false,
   "listener": "json/listeners/basiclistener.json",
