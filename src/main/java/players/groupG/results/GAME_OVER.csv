@@ -1,401 +1,397 @@
-GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(PlayerName-1),OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(PlayerName-1),PlayerType(PlayerType-1),PlayerType(PlayerType-0),Winner(PlayerIdx)
--1301013297,SushiGo,3,GAME_OVER,60,0,2,2,rhea,51.0,46.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--407355362,SushiGo,3,GAME_OVER,60,0,2,3,rhea,65.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1416147264,SushiGo,3,GAME_OVER,62,0,2,4,groupG_rhea,56.0,50.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-2013802558,SushiGo,3,GAME_OVER,61,0,2,5,groupG_rhea,66.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-207046305,SushiGo,3,GAME_OVER,63,0,2,6,groupG_rhea,48.0,62.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1619506538,SushiGo,3,GAME_OVER,60,0,2,7,groupG_rhea,52.0,74.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1976269316,SushiGo,3,GAME_OVER,65,0,2,8,groupG_rhea,48.0,48.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1775281184,SushiGo,3,GAME_OVER,61,0,2,9,groupG_rhea,54.0,60.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1910922003,SushiGo,3,GAME_OVER,60,0,2,10,rhea,46.0,62.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1734268072,SushiGo,3,GAME_OVER,60,0,2,11,rhea,71.0,62.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1407929580,SushiGo,3,GAME_OVER,60,0,2,12,groupG_rhea,72.0,52.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--918901922,SushiGo,3,GAME_OVER,60,0,2,13,rhea,62.0,70.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-161549905,SushiGo,3,GAME_OVER,61,0,2,14,groupG_rhea,53.0,53.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--521900020,SushiGo,3,GAME_OVER,60,0,2,15,groupG_rhea,52.0,57.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--2081237893,SushiGo,3,GAME_OVER,60,0,2,16,groupG_rhea,64.0,58.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1031585875,SushiGo,3,GAME_OVER,60,0,2,17,groupG_rhea,64.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1812334986,SushiGo,3,GAME_OVER,61,0,2,18,groupG_rhea,50.0,65.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1528018727,SushiGo,3,GAME_OVER,60,0,2,19,rhea,56.0,47.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1032834941,SushiGo,3,GAME_OVER,60,0,2,20,groupG_rhea,62.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-814296284,SushiGo,3,GAME_OVER,62,0,2,21,rhea,43.0,47.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--868653017,SushiGo,3,GAME_OVER,61,0,2,22,rhea,48.0,56.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2056341137,SushiGo,3,GAME_OVER,60,0,2,23,groupG_rhea,58.0,57.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-13398527,SushiGo,3,GAME_OVER,60,0,2,24,rhea,64.0,60.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--746345643,SushiGo,3,GAME_OVER,60,0,2,25,rhea,49.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-459036798,SushiGo,3,GAME_OVER,60,0,2,26,rhea,57.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1646204793,SushiGo,3,GAME_OVER,60,0,2,27,rhea,63.0,48.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1973321760,SushiGo,3,GAME_OVER,60,0,2,28,rhea,64.0,60.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1894553954,SushiGo,3,GAME_OVER,60,0,2,29,groupG_rhea,50.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-187900644,SushiGo,3,GAME_OVER,61,0,2,30,groupG_rhea,62.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--949013823,SushiGo,3,GAME_OVER,60,0,2,31,rhea,55.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-547273381,SushiGo,3,GAME_OVER,60,0,2,32,rhea,53.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1669599475,SushiGo,3,GAME_OVER,62,0,2,33,rhea,58.0,52.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1595275753,SushiGo,3,GAME_OVER,60,0,2,34,groupG_rhea,66.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--865887273,SushiGo,3,GAME_OVER,60,0,2,35,groupG_rhea,60.0,47.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--377361041,SushiGo,3,GAME_OVER,62,0,2,36,groupG_rhea,48.0,52.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1506874782,SushiGo,3,GAME_OVER,60,0,2,37,groupG_rhea,40.0,47.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--773396737,SushiGo,3,GAME_OVER,61,0,2,38,groupG_rhea,53.0,54.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1884028193,SushiGo,3,GAME_OVER,61,0,2,39,groupG_rhea,52.0,62.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1772656300,SushiGo,3,GAME_OVER,60,0,2,40,rhea,74.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--2114937114,SushiGo,3,GAME_OVER,60,0,2,41,groupG_rhea,53.0,66.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1663449194,SushiGo,3,GAME_OVER,60,0,2,42,rhea,50.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1175024293,SushiGo,3,GAME_OVER,60,0,2,43,groupG_rhea,69.0,57.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--479242701,SushiGo,3,GAME_OVER,61,0,2,44,rhea,60.0,56.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1496022337,SushiGo,3,GAME_OVER,61,0,2,45,rhea,45.0,54.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1377224413,SushiGo,3,GAME_OVER,61,0,2,46,rhea,59.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--287768750,SushiGo,3,GAME_OVER,60,0,2,47,groupG_rhea,66.0,60.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--108293561,SushiGo,3,GAME_OVER,63,0,2,48,groupG_rhea,57.0,63.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-623379537,SushiGo,3,GAME_OVER,61,0,2,49,groupG_rhea,43.0,55.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1862845011,SushiGo,3,GAME_OVER,63,0,2,50,groupG_rhea,55.0,45.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--2047675972,SushiGo,3,GAME_OVER,60,0,2,51,rhea,78.0,62.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--663833920,SushiGo,3,GAME_OVER,61,0,2,52,rhea,58.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1524102404,SushiGo,3,GAME_OVER,61,0,2,53,groupG_rhea,56.0,85.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1137593518,SushiGo,3,GAME_OVER,60,0,2,54,rhea,56.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1474655454,SushiGo,3,GAME_OVER,60,0,2,55,groupG_rhea,67.0,47.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1627519375,SushiGo,3,GAME_OVER,61,0,2,56,rhea,69.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--15120996,SushiGo,3,GAME_OVER,63,0,2,57,rhea,46.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-449670919,SushiGo,3,GAME_OVER,64,0,2,58,groupG_rhea,63.0,68.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1430675834,SushiGo,3,GAME_OVER,60,0,2,59,rhea,58.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--461089663,SushiGo,3,GAME_OVER,62,0,2,60,rhea,42.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--370754035,SushiGo,3,GAME_OVER,60,0,2,61,rhea,59.0,65.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-145073716,SushiGo,3,GAME_OVER,60,0,2,62,rhea,81.0,63.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-35345535,SushiGo,3,GAME_OVER,63,0,2,63,groupG_rhea,48.0,50.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-985774479,SushiGo,3,GAME_OVER,62,0,2,64,groupG_rhea,69.0,57.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-588751089,SushiGo,3,GAME_OVER,62,0,2,65,rhea,51.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1809182016,SushiGo,3,GAME_OVER,61,0,2,66,rhea,57.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--125255000,SushiGo,3,GAME_OVER,60,0,2,67,groupG_rhea,47.0,46.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1317833613,SushiGo,3,GAME_OVER,61,0,2,68,groupG_rhea,72.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1124909648,SushiGo,3,GAME_OVER,61,0,2,69,groupG_rhea,63.0,52.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--245920261,SushiGo,3,GAME_OVER,62,0,2,70,rhea,56.0,67.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--192080581,SushiGo,3,GAME_OVER,61,0,2,71,rhea,68.0,41.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--807454338,SushiGo,3,GAME_OVER,61,0,2,72,groupG_rhea,61.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--2020179264,SushiGo,3,GAME_OVER,61,0,2,73,groupG_rhea,61.0,60.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1815106839,SushiGo,3,GAME_OVER,60,0,2,74,groupG_rhea,53.0,61.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--752865544,SushiGo,3,GAME_OVER,61,0,2,75,groupG_rhea,54.0,52.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-617877928,SushiGo,3,GAME_OVER,62,0,2,76,groupG_rhea,70.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--64062939,SushiGo,3,GAME_OVER,60,0,2,77,rhea,64.0,49.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-609112700,SushiGo,3,GAME_OVER,60,0,2,78,groupG_rhea,43.0,59.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-755032907,SushiGo,3,GAME_OVER,61,0,2,79,rhea,66.0,61.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1350470680,SushiGo,3,GAME_OVER,60,0,2,80,groupG_rhea,56.0,61.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1388284475,SushiGo,3,GAME_OVER,60,0,2,81,rhea,45.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2002808582,SushiGo,3,GAME_OVER,61,0,2,82,rhea,43.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-662056621,SushiGo,3,GAME_OVER,62,0,2,83,rhea,64.0,69.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-244719558,SushiGo,3,GAME_OVER,61,0,2,84,groupG_rhea,44.0,45.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-588873395,SushiGo,3,GAME_OVER,61,0,2,85,groupG_rhea,63.0,55.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-487938792,SushiGo,3,GAME_OVER,61,0,2,86,groupG_rhea,59.0,44.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-843125065,SushiGo,3,GAME_OVER,61,0,2,87,groupG_rhea,62.0,58.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1910082862,SushiGo,3,GAME_OVER,61,0,2,88,groupG_rhea,49.0,57.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-219454938,SushiGo,3,GAME_OVER,60,0,2,89,rhea,74.0,64.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1993082511,SushiGo,3,GAME_OVER,60,0,2,90,rhea,51.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-889122787,SushiGo,3,GAME_OVER,61,0,2,91,rhea,53.0,42.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1514931589,SushiGo,3,GAME_OVER,60,0,2,92,groupG_rhea,60.0,58.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--751546847,SushiGo,3,GAME_OVER,62,0,2,93,rhea,59.0,60.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1020791201,SushiGo,3,GAME_OVER,60,0,2,94,groupG_rhea,59.0,45.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1210671371,SushiGo,3,GAME_OVER,60,0,2,95,rhea,50.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--519652863,SushiGo,3,GAME_OVER,60,0,2,96,rhea,40.0,74.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1234178009,SushiGo,3,GAME_OVER,60,0,2,97,rhea,60.0,66.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1060498574,SushiGo,3,GAME_OVER,61,0,2,98,groupG_rhea,70.0,48.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1950907418,SushiGo,3,GAME_OVER,61,0,2,99,rhea,57.0,48.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1993763637,SushiGo,3,GAME_OVER,60,0,2,100,groupG_rhea,51.0,57.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1314140355,SushiGo,3,GAME_OVER,61,0,2,101,rhea,57.0,48.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1978298044,SushiGo,3,GAME_OVER,60,0,2,102,rhea,62.0,42.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-94124464,SushiGo,3,GAME_OVER,61,0,2,103,rhea,64.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1692371477,SushiGo,3,GAME_OVER,60,0,2,104,groupG_rhea,51.0,59.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-250925749,SushiGo,3,GAME_OVER,60,0,2,105,groupG_rhea,47.0,53.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--953447281,SushiGo,3,GAME_OVER,60,0,2,106,rhea,51.0,66.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1695727433,SushiGo,3,GAME_OVER,60,0,2,107,rhea,66.0,67.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1052026571,SushiGo,3,GAME_OVER,60,0,2,108,groupG_rhea,54.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1356281511,SushiGo,3,GAME_OVER,61,0,2,109,groupG_rhea,59.0,65.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1681536378,SushiGo,3,GAME_OVER,60,0,2,110,rhea,60.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-830524671,SushiGo,3,GAME_OVER,61,0,2,111,rhea,52.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1377760826,SushiGo,3,GAME_OVER,60,0,2,112,rhea,58.0,79.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1379974579,SushiGo,3,GAME_OVER,62,0,2,113,rhea,44.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-822929467,SushiGo,3,GAME_OVER,63,0,2,114,groupG_rhea,71.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--81844350,SushiGo,3,GAME_OVER,61,0,2,115,groupG_rhea,49.0,43.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1053645187,SushiGo,3,GAME_OVER,62,0,2,116,groupG_rhea,50.0,55.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--690884407,SushiGo,3,GAME_OVER,60,0,2,117,groupG_rhea,37.0,65.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--467476484,SushiGo,3,GAME_OVER,61,0,2,118,rhea,58.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--874798322,SushiGo,3,GAME_OVER,61,0,2,119,rhea,52.0,55.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--2119540158,SushiGo,3,GAME_OVER,60,0,2,120,groupG_rhea,49.0,49.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-510845273,SushiGo,3,GAME_OVER,62,0,2,121,rhea,45.0,55.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--533522754,SushiGo,3,GAME_OVER,61,0,2,122,rhea,54.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1129135911,SushiGo,3,GAME_OVER,60,0,2,123,rhea,60.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--311314667,SushiGo,3,GAME_OVER,60,0,2,124,groupG_rhea,63.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1848442010,SushiGo,3,GAME_OVER,61,0,2,125,groupG_rhea,47.0,42.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1360795473,SushiGo,3,GAME_OVER,60,0,2,126,groupG_rhea,67.0,45.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1997269718,SushiGo,3,GAME_OVER,60,0,2,127,rhea,66.0,68.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1495320988,SushiGo,3,GAME_OVER,60,0,2,128,groupG_rhea,61.0,57.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1709708301,SushiGo,3,GAME_OVER,61,0,2,129,rhea,55.0,66.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-371018965,SushiGo,3,GAME_OVER,60,0,2,130,rhea,51.0,72.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--257559627,SushiGo,3,GAME_OVER,60,0,2,131,rhea,57.0,60.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--2105505124,SushiGo,3,GAME_OVER,61,0,2,132,groupG_rhea,62.0,74.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--453315314,SushiGo,3,GAME_OVER,63,0,2,133,rhea,60.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-260141164,SushiGo,3,GAME_OVER,62,0,2,134,rhea,76.0,64.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1688128582,SushiGo,3,GAME_OVER,60,0,2,135,rhea,69.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1110802943,SushiGo,3,GAME_OVER,60,0,2,136,groupG_rhea,55.0,52.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--145842673,SushiGo,3,GAME_OVER,60,0,2,137,groupG_rhea,63.0,61.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-211131952,SushiGo,3,GAME_OVER,61,0,2,138,groupG_rhea,41.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1653090526,SushiGo,3,GAME_OVER,61,0,2,139,rhea,57.0,70.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1413342526,SushiGo,3,GAME_OVER,62,0,2,140,groupG_rhea,50.0,94.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1908200415,SushiGo,3,GAME_OVER,60,0,2,141,groupG_rhea,65.0,60.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1338525031,SushiGo,3,GAME_OVER,61,0,2,142,rhea,48.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1223519881,SushiGo,3,GAME_OVER,60,0,2,143,rhea,74.0,63.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1097910201,SushiGo,3,GAME_OVER,63,0,2,144,rhea,60.0,65.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2134265601,SushiGo,3,GAME_OVER,61,0,2,145,groupG_rhea,51.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1154115573,SushiGo,3,GAME_OVER,60,0,2,146,rhea,52.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1296893500,SushiGo,3,GAME_OVER,60,0,2,147,rhea,51.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--484832818,SushiGo,3,GAME_OVER,60,0,2,148,groupG_rhea,46.0,66.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-273796614,SushiGo,3,GAME_OVER,62,0,2,149,groupG_rhea,48.0,54.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1019159279,SushiGo,3,GAME_OVER,60,0,2,150,rhea,49.0,62.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1269387656,SushiGo,3,GAME_OVER,60,0,2,151,rhea,58.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1541046837,SushiGo,3,GAME_OVER,60,0,2,152,groupG_rhea,61.0,56.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1442414944,SushiGo,3,GAME_OVER,60,0,2,153,groupG_rhea,61.0,41.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1731889979,SushiGo,3,GAME_OVER,61,0,2,154,groupG_rhea,45.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--368258343,SushiGo,3,GAME_OVER,60,0,2,155,rhea,67.0,71.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--216424168,SushiGo,3,GAME_OVER,60,0,2,156,groupG_rhea,64.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1438049372,SushiGo,3,GAME_OVER,60,0,2,157,rhea,64.0,66.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1300509331,SushiGo,3,GAME_OVER,61,0,2,158,rhea,58.0,62.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--638788057,SushiGo,3,GAME_OVER,60,0,2,159,rhea,50.0,57.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-408026398,SushiGo,3,GAME_OVER,61,0,2,160,rhea,54.0,59.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1223067527,SushiGo,3,GAME_OVER,61,0,2,161,groupG_rhea,50.0,46.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--838961264,SushiGo,3,GAME_OVER,60,0,2,162,rhea,50.0,65.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2089335040,SushiGo,3,GAME_OVER,61,0,2,163,groupG_rhea,49.0,54.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-2036211600,SushiGo,3,GAME_OVER,60,0,2,164,groupG_rhea,52.0,40.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--227156503,SushiGo,3,GAME_OVER,62,0,2,165,groupG_rhea,58.0,65.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1794560463,SushiGo,3,GAME_OVER,60,0,2,166,rhea,59.0,56.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--526856954,SushiGo,3,GAME_OVER,60,0,2,167,rhea,55.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--336034517,SushiGo,3,GAME_OVER,60,0,2,168,rhea,51.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--196593643,SushiGo,3,GAME_OVER,60,0,2,169,groupG_rhea,60.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1170733708,SushiGo,3,GAME_OVER,61,0,2,170,rhea,46.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--815338818,SushiGo,3,GAME_OVER,60,0,2,171,rhea,48.0,50.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-536500278,SushiGo,3,GAME_OVER,61,0,2,172,rhea,47.0,35.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1252975175,SushiGo,3,GAME_OVER,60,0,2,173,rhea,58.0,67.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-771464008,SushiGo,3,GAME_OVER,61,0,2,174,rhea,61.0,67.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--496555589,SushiGo,3,GAME_OVER,60,0,2,175,rhea,54.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-67319765,SushiGo,3,GAME_OVER,61,0,2,176,groupG_rhea,47.0,68.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--755977619,SushiGo,3,GAME_OVER,60,0,2,177,groupG_rhea,61.0,39.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--994893604,SushiGo,3,GAME_OVER,60,0,2,178,rhea,57.0,71.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--272881925,SushiGo,3,GAME_OVER,60,0,2,179,groupG_rhea,71.0,50.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-101032095,SushiGo,3,GAME_OVER,60,0,2,180,groupG_rhea,66.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1384675534,SushiGo,3,GAME_OVER,64,0,2,181,groupG_rhea,63.0,43.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1943603025,SushiGo,3,GAME_OVER,60,0,2,182,rhea,54.0,62.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--2024389232,SushiGo,3,GAME_OVER,61,0,2,183,rhea,52.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1020840558,SushiGo,3,GAME_OVER,61,0,2,184,rhea,60.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1437086519,SushiGo,3,GAME_OVER,62,0,2,185,groupG_rhea,70.0,84.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1359037360,SushiGo,3,GAME_OVER,63,0,2,186,rhea,55.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-859035010,SushiGo,3,GAME_OVER,63,0,2,187,rhea,51.0,51.0,groupG_rhea,1,rhea,1,1,1,groupG_rhea,groupG_rhea,rhea,-1
--123072649,SushiGo,3,GAME_OVER,60,0,2,188,rhea,47.0,47.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1664571555,SushiGo,3,GAME_OVER,61,0,2,189,rhea,70.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--169648611,SushiGo,3,GAME_OVER,60,0,2,190,groupG_rhea,69.0,47.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-893535475,SushiGo,3,GAME_OVER,60,0,2,191,rhea,63.0,61.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1932865689,SushiGo,3,GAME_OVER,60,0,2,192,groupG_rhea,66.0,48.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--185468707,SushiGo,3,GAME_OVER,60,0,2,193,groupG_rhea,57.0,72.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1449541556,SushiGo,3,GAME_OVER,62,0,2,194,groupG_rhea,55.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--490815612,SushiGo,3,GAME_OVER,60,0,2,195,groupG_rhea,42.0,75.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-793512697,SushiGo,3,GAME_OVER,61,0,2,196,rhea,75.0,64.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-119061656,SushiGo,3,GAME_OVER,62,0,2,197,groupG_rhea,52.0,55.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-65206068,SushiGo,3,GAME_OVER,61,0,2,198,rhea,64.0,66.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1912004599,SushiGo,3,GAME_OVER,61,0,2,199,rhea,52.0,55.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1364487474,SushiGo,3,GAME_OVER,61,0,2,200,rhea,55.0,74.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1272526863,SushiGo,3,GAME_OVER,61,0,2,201,rhea,45.0,60.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--221717501,SushiGo,3,GAME_OVER,60,0,2,202,groupG_rhea,39.0,61.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--365930475,SushiGo,3,GAME_OVER,61,0,2,203,rhea,43.0,51.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-916793209,SushiGo,3,GAME_OVER,61,0,2,204,groupG_rhea,62.0,59.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--480202863,SushiGo,3,GAME_OVER,60,0,2,205,groupG_rhea,47.0,60.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1730357167,SushiGo,3,GAME_OVER,61,0,2,206,groupG_rhea,65.0,80.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--527912238,SushiGo,3,GAME_OVER,60,0,2,207,rhea,58.0,60.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1962972376,SushiGo,3,GAME_OVER,60,0,2,208,rhea,53.0,42.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1363664832,SushiGo,3,GAME_OVER,61,0,2,209,rhea,49.0,54.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1366800791,SushiGo,3,GAME_OVER,61,0,2,210,rhea,47.0,74.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-638358702,SushiGo,3,GAME_OVER,64,0,2,211,rhea,50.0,52.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1746119205,SushiGo,3,GAME_OVER,60,0,2,212,groupG_rhea,61.0,70.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-357667093,SushiGo,3,GAME_OVER,60,0,2,213,rhea,70.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--329332766,SushiGo,3,GAME_OVER,60,0,2,214,groupG_rhea,60.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--2057822627,SushiGo,3,GAME_OVER,62,0,2,215,groupG_rhea,53.0,61.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1259793494,SushiGo,3,GAME_OVER,60,0,2,216,groupG_rhea,66.0,50.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1563095078,SushiGo,3,GAME_OVER,61,0,2,217,rhea,56.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2048332739,SushiGo,3,GAME_OVER,62,0,2,218,groupG_rhea,53.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-252204458,SushiGo,3,GAME_OVER,62,0,2,219,rhea,53.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1838849512,SushiGo,3,GAME_OVER,61,0,2,220,rhea,49.0,57.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-418054187,SushiGo,3,GAME_OVER,60,0,2,221,rhea,57.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1723125879,SushiGo,3,GAME_OVER,62,0,2,222,rhea,52.0,56.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1180678295,SushiGo,3,GAME_OVER,60,0,2,223,rhea,54.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--2056763587,SushiGo,3,GAME_OVER,61,0,2,224,rhea,61.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1654725182,SushiGo,3,GAME_OVER,60,0,2,225,rhea,57.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1530316721,SushiGo,3,GAME_OVER,60,0,2,226,rhea,65.0,65.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-821976777,SushiGo,3,GAME_OVER,61,0,2,227,groupG_rhea,53.0,56.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--286146112,SushiGo,3,GAME_OVER,61,0,2,228,rhea,57.0,56.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1427687393,SushiGo,3,GAME_OVER,61,0,2,229,groupG_rhea,68.0,56.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-2085539485,SushiGo,3,GAME_OVER,61,0,2,230,groupG_rhea,50.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--273658590,SushiGo,3,GAME_OVER,60,0,2,231,groupG_rhea,63.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-256148052,SushiGo,3,GAME_OVER,60,0,2,232,rhea,61.0,69.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1967028549,SushiGo,3,GAME_OVER,61,0,2,233,groupG_rhea,68.0,70.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1097584764,SushiGo,3,GAME_OVER,60,0,2,234,groupG_rhea,50.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-291168175,SushiGo,3,GAME_OVER,62,0,2,235,rhea,60.0,70.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1904430477,SushiGo,3,GAME_OVER,60,0,2,236,rhea,58.0,49.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-19061705,SushiGo,3,GAME_OVER,60,0,2,237,groupG_rhea,56.0,42.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--949338966,SushiGo,3,GAME_OVER,61,0,2,238,rhea,67.0,52.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1581018565,SushiGo,3,GAME_OVER,60,0,2,239,groupG_rhea,63.0,67.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1118752842,SushiGo,3,GAME_OVER,61,0,2,240,groupG_rhea,61.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1493265216,SushiGo,3,GAME_OVER,60,0,2,241,groupG_rhea,66.0,51.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1968616240,SushiGo,3,GAME_OVER,60,0,2,242,rhea,62.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--415265690,SushiGo,3,GAME_OVER,60,0,2,243,rhea,45.0,59.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--715347865,SushiGo,3,GAME_OVER,61,0,2,244,rhea,53.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1148216439,SushiGo,3,GAME_OVER,60,0,2,245,rhea,63.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1262042092,SushiGo,3,GAME_OVER,61,0,2,246,groupG_rhea,72.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--715812120,SushiGo,3,GAME_OVER,62,0,2,247,groupG_rhea,48.0,49.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-352546132,SushiGo,3,GAME_OVER,63,0,2,248,rhea,60.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1991510667,SushiGo,3,GAME_OVER,61,0,2,249,rhea,50.0,59.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--972635363,SushiGo,3,GAME_OVER,61,0,2,250,rhea,48.0,65.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--840809000,SushiGo,3,GAME_OVER,62,0,2,251,groupG_rhea,60.0,56.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-2130971877,SushiGo,3,GAME_OVER,60,0,2,252,rhea,46.0,56.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1041245180,SushiGo,3,GAME_OVER,60,0,2,253,rhea,51.0,54.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1579033640,SushiGo,3,GAME_OVER,61,0,2,254,groupG_rhea,65.0,63.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--310588389,SushiGo,3,GAME_OVER,60,0,2,255,rhea,54.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-806226801,SushiGo,3,GAME_OVER,60,0,2,256,rhea,52.0,70.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2004716016,SushiGo,3,GAME_OVER,61,0,2,257,rhea,55.0,59.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1660771737,SushiGo,3,GAME_OVER,61,0,2,258,groupG_rhea,41.0,52.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--404204970,SushiGo,3,GAME_OVER,60,0,2,259,rhea,59.0,54.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1231336244,SushiGo,3,GAME_OVER,61,0,2,260,groupG_rhea,60.0,59.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--659146098,SushiGo,3,GAME_OVER,60,0,2,261,rhea,62.0,69.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1160418412,SushiGo,3,GAME_OVER,60,0,2,262,groupG_rhea,54.0,60.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--43450225,SushiGo,3,GAME_OVER,60,0,2,263,rhea,71.0,70.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--2013396188,SushiGo,3,GAME_OVER,60,0,2,264,rhea,55.0,69.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-418126591,SushiGo,3,GAME_OVER,61,0,2,265,groupG_rhea,53.0,63.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1904607649,SushiGo,3,GAME_OVER,60,0,2,266,rhea,68.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1086334484,SushiGo,3,GAME_OVER,60,0,2,267,groupG_rhea,59.0,56.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1973537011,SushiGo,3,GAME_OVER,60,0,2,268,groupG_rhea,88.0,68.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1012452682,SushiGo,3,GAME_OVER,62,0,2,269,groupG_rhea,65.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1103969402,SushiGo,3,GAME_OVER,62,0,2,270,rhea,57.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1482997659,SushiGo,3,GAME_OVER,60,0,2,271,rhea,44.0,64.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-58670297,SushiGo,3,GAME_OVER,61,0,2,272,rhea,69.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--812527562,SushiGo,3,GAME_OVER,62,0,2,273,groupG_rhea,54.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1812162861,SushiGo,3,GAME_OVER,60,0,2,274,groupG_rhea,64.0,46.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-389790634,SushiGo,3,GAME_OVER,61,0,2,275,rhea,60.0,56.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--254366931,SushiGo,3,GAME_OVER,60,0,2,276,rhea,48.0,55.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1782087200,SushiGo,3,GAME_OVER,60,0,2,277,groupG_rhea,52.0,53.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-2125280409,SushiGo,3,GAME_OVER,62,0,2,278,rhea,42.0,64.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1063625016,SushiGo,3,GAME_OVER,63,0,2,279,rhea,63.0,74.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1811700016,SushiGo,3,GAME_OVER,60,0,2,280,rhea,61.0,65.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1268398996,SushiGo,3,GAME_OVER,60,0,2,281,groupG_rhea,49.0,44.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-467668325,SushiGo,3,GAME_OVER,60,0,2,282,rhea,60.0,48.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1561494380,SushiGo,3,GAME_OVER,60,0,2,283,groupG_rhea,55.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1605462074,SushiGo,3,GAME_OVER,61,0,2,284,rhea,65.0,65.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-614611446,SushiGo,3,GAME_OVER,60,0,2,285,rhea,59.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1758056140,SushiGo,3,GAME_OVER,61,0,2,286,groupG_rhea,54.0,66.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--327207290,SushiGo,3,GAME_OVER,62,0,2,287,groupG_rhea,69.0,66.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-264674205,SushiGo,3,GAME_OVER,60,0,2,288,rhea,59.0,59.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--152720836,SushiGo,3,GAME_OVER,60,0,2,289,groupG_rhea,43.0,62.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1960433942,SushiGo,3,GAME_OVER,61,0,2,290,groupG_rhea,55.0,52.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1409923507,SushiGo,3,GAME_OVER,61,0,2,291,groupG_rhea,57.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--367834874,SushiGo,3,GAME_OVER,60,0,2,292,groupG_rhea,53.0,62.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--301051034,SushiGo,3,GAME_OVER,61,0,2,293,groupG_rhea,70.0,66.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1900922559,SushiGo,3,GAME_OVER,61,0,2,294,groupG_rhea,44.0,50.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1298953659,SushiGo,3,GAME_OVER,60,0,2,295,rhea,59.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1184458586,SushiGo,3,GAME_OVER,62,0,2,296,groupG_rhea,48.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--243302267,SushiGo,3,GAME_OVER,60,0,2,297,rhea,52.0,65.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--566999040,SushiGo,3,GAME_OVER,62,0,2,298,groupG_rhea,73.0,60.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-63878091,SushiGo,3,GAME_OVER,60,0,2,299,groupG_rhea,59.0,58.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1536948434,SushiGo,3,GAME_OVER,62,0,2,300,rhea,54.0,68.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2140734495,SushiGo,3,GAME_OVER,60,0,2,301,rhea,52.0,56.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--83591190,SushiGo,3,GAME_OVER,61,0,2,302,rhea,58.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--983355043,SushiGo,3,GAME_OVER,60,0,2,303,groupG_rhea,56.0,80.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-328156328,SushiGo,3,GAME_OVER,61,0,2,304,groupG_rhea,50.0,60.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-147674859,SushiGo,3,GAME_OVER,61,0,2,305,groupG_rhea,48.0,69.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-397807959,SushiGo,3,GAME_OVER,63,0,2,306,groupG_rhea,55.0,38.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1984613373,SushiGo,3,GAME_OVER,60,0,2,307,rhea,61.0,57.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--282721004,SushiGo,3,GAME_OVER,61,0,2,308,rhea,61.0,58.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1758175528,SushiGo,3,GAME_OVER,60,0,2,309,rhea,71.0,61.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-700921616,SushiGo,3,GAME_OVER,60,0,2,310,rhea,63.0,44.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--530650282,SushiGo,3,GAME_OVER,62,0,2,311,groupG_rhea,68.0,66.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-879609395,SushiGo,3,GAME_OVER,61,0,2,312,rhea,50.0,72.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-2010456660,SushiGo,3,GAME_OVER,62,0,2,313,groupG_rhea,57.0,48.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1874960965,SushiGo,3,GAME_OVER,61,0,2,314,rhea,53.0,55.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1343507352,SushiGo,3,GAME_OVER,60,0,2,315,rhea,55.0,58.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1219993249,SushiGo,3,GAME_OVER,60,0,2,316,rhea,57.0,52.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1036053450,SushiGo,3,GAME_OVER,60,0,2,317,rhea,45.0,57.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1533096387,SushiGo,3,GAME_OVER,60,0,2,318,rhea,53.0,69.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1394814240,SushiGo,3,GAME_OVER,60,0,2,319,groupG_rhea,40.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--907449815,SushiGo,3,GAME_OVER,61,0,2,320,rhea,54.0,49.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-2143199595,SushiGo,3,GAME_OVER,60,0,2,321,rhea,49.0,47.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-621963365,SushiGo,3,GAME_OVER,60,0,2,322,groupG_rhea,63.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1881270167,SushiGo,3,GAME_OVER,60,0,2,323,groupG_rhea,63.0,66.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--109254828,SushiGo,3,GAME_OVER,61,0,2,324,rhea,54.0,62.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-938300720,SushiGo,3,GAME_OVER,61,0,2,325,groupG_rhea,54.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--851618101,SushiGo,3,GAME_OVER,60,0,2,326,groupG_rhea,58.0,62.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-2056461901,SushiGo,3,GAME_OVER,61,0,2,327,rhea,61.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1692047939,SushiGo,3,GAME_OVER,60,0,2,328,rhea,55.0,42.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-229724448,SushiGo,3,GAME_OVER,62,0,2,329,rhea,59.0,52.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--706155446,SushiGo,3,GAME_OVER,60,0,2,330,groupG_rhea,63.0,62.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--171182756,SushiGo,3,GAME_OVER,60,0,2,331,groupG_rhea,56.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1442810046,SushiGo,3,GAME_OVER,60,0,2,332,rhea,49.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--307289138,SushiGo,3,GAME_OVER,61,0,2,333,groupG_rhea,55.0,59.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--2020744414,SushiGo,3,GAME_OVER,62,0,2,334,groupG_rhea,53.0,54.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1753583598,SushiGo,3,GAME_OVER,60,0,2,335,rhea,55.0,53.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1857692556,SushiGo,3,GAME_OVER,60,0,2,336,groupG_rhea,49.0,54.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--842239707,SushiGo,3,GAME_OVER,60,0,2,337,rhea,61.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1917862922,SushiGo,3,GAME_OVER,61,0,2,338,rhea,53.0,52.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--2001769736,SushiGo,3,GAME_OVER,60,0,2,339,rhea,55.0,49.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1195642620,SushiGo,3,GAME_OVER,62,0,2,340,rhea,58.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--60388505,SushiGo,3,GAME_OVER,62,0,2,341,groupG_rhea,50.0,38.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1178958968,SushiGo,3,GAME_OVER,60,0,2,342,rhea,60.0,56.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1450817354,SushiGo,3,GAME_OVER,61,0,2,343,rhea,69.0,61.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1652739300,SushiGo,3,GAME_OVER,61,0,2,344,rhea,68.0,60.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--831842189,SushiGo,3,GAME_OVER,62,0,2,345,groupG_rhea,49.0,49.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1499669859,SushiGo,3,GAME_OVER,61,0,2,346,groupG_rhea,56.0,45.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-435588057,SushiGo,3,GAME_OVER,61,0,2,347,groupG_rhea,57.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1576391008,SushiGo,3,GAME_OVER,60,0,2,348,rhea,32.0,78.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1476347718,SushiGo,3,GAME_OVER,61,0,2,349,rhea,42.0,56.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1613763502,SushiGo,3,GAME_OVER,60,0,2,350,rhea,58.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1635934157,SushiGo,3,GAME_OVER,61,0,2,351,groupG_rhea,55.0,70.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-2126462334,SushiGo,3,GAME_OVER,61,0,2,352,rhea,58.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1260804547,SushiGo,3,GAME_OVER,61,0,2,353,rhea,52.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1246085374,SushiGo,3,GAME_OVER,61,0,2,354,rhea,52.0,68.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1362012672,SushiGo,3,GAME_OVER,64,0,2,355,groupG_rhea,56.0,64.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-2100161696,SushiGo,3,GAME_OVER,61,0,2,356,rhea,45.0,71.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-1470138038,SushiGo,3,GAME_OVER,61,0,2,357,rhea,61.0,48.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1112905563,SushiGo,3,GAME_OVER,61,0,2,358,rhea,54.0,55.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1377987410,SushiGo,3,GAME_OVER,62,0,2,359,rhea,58.0,78.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-738079586,SushiGo,3,GAME_OVER,60,0,2,360,rhea,61.0,83.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--213420010,SushiGo,3,GAME_OVER,60,0,2,361,groupG_rhea,61.0,47.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1974193190,SushiGo,3,GAME_OVER,61,0,2,362,rhea,56.0,46.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1961477296,SushiGo,3,GAME_OVER,63,0,2,363,groupG_rhea,54.0,48.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-353580454,SushiGo,3,GAME_OVER,61,0,2,364,rhea,73.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1253960074,SushiGo,3,GAME_OVER,61,0,2,365,rhea,49.0,64.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--250579382,SushiGo,3,GAME_OVER,60,0,2,366,groupG_rhea,57.0,63.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1741665085,SushiGo,3,GAME_OVER,60,0,2,367,rhea,60.0,50.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1071183380,SushiGo,3,GAME_OVER,61,0,2,368,rhea,42.0,59.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-60566318,SushiGo,3,GAME_OVER,63,0,2,369,rhea,48.0,52.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--806923342,SushiGo,3,GAME_OVER,62,0,2,370,rhea,56.0,55.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1006683630,SushiGo,3,GAME_OVER,62,0,2,371,rhea,58.0,73.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--536265242,SushiGo,3,GAME_OVER,61,0,2,372,groupG_rhea,72.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1000049814,SushiGo,3,GAME_OVER,61,0,2,373,groupG_rhea,44.0,48.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-58847738,SushiGo,3,GAME_OVER,61,0,2,374,groupG_rhea,54.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--420352229,SushiGo,3,GAME_OVER,61,0,2,375,rhea,46.0,63.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
-476614731,SushiGo,3,GAME_OVER,60,0,2,376,groupG_rhea,54.0,62.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--673254382,SushiGo,3,GAME_OVER,61,0,2,377,groupG_rhea,60.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1214304664,SushiGo,3,GAME_OVER,61,0,2,378,groupG_rhea,48.0,48.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1488878222,SushiGo,3,GAME_OVER,60,0,2,379,rhea,51.0,54.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--794954773,SushiGo,3,GAME_OVER,60,0,2,380,groupG_rhea,57.0,69.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1419191859,SushiGo,3,GAME_OVER,61,0,2,381,rhea,46.0,61.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1186053859,SushiGo,3,GAME_OVER,60,0,2,382,rhea,55.0,56.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1348615804,SushiGo,3,GAME_OVER,60,0,2,383,groupG_rhea,68.0,64.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--524537853,SushiGo,3,GAME_OVER,61,0,2,384,groupG_rhea,56.0,49.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-740655502,SushiGo,3,GAME_OVER,62,0,2,385,rhea,63.0,36.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--1508194425,SushiGo,3,GAME_OVER,61,0,2,386,rhea,41.0,53.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1857962497,SushiGo,3,GAME_OVER,60,0,2,387,rhea,61.0,48.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-1183363538,SushiGo,3,GAME_OVER,62,0,2,388,groupG_rhea,58.0,53.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--171429185,SushiGo,3,GAME_OVER,61,0,2,389,rhea,66.0,59.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
-499810841,SushiGo,3,GAME_OVER,60,0,2,390,groupG_rhea,42.0,52.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-1679649137,SushiGo,3,GAME_OVER,60,0,2,391,groupG_rhea,54.0,48.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1791532181,SushiGo,3,GAME_OVER,61,0,2,392,groupG_rhea,58.0,55.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-587670704,SushiGo,3,GAME_OVER,60,0,2,393,rhea,59.0,60.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1068713666,SushiGo,3,GAME_OVER,60,0,2,394,groupG_rhea,45.0,47.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--1553548753,SushiGo,3,GAME_OVER,62,0,2,395,rhea,79.0,51.0,groupG_rhea,1,rhea,1,2,2,groupG_rhea,groupG_rhea,rhea,1
--435381299,SushiGo,3,GAME_OVER,62,0,2,396,groupG_rhea,59.0,67.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
--389467877,SushiGo,3,GAME_OVER,60,0,2,397,groupG_rhea,58.0,40.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
--1492746870,SushiGo,3,GAME_OVER,62,0,2,398,rhea,42.0,46.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
--1666204553,SushiGo,3,GAME_OVER,61,0,2,399,groupG_rhea,55.0,58.0,rhea,2,groupG_rhea,2,1,1,rhea,rhea,groupG_rhea,0
-916814896,SushiGo,3,GAME_OVER,60,0,2,400,groupG_rhea,64.0,54.0,rhea,1,groupG_rhea,1,2,2,rhea,rhea,groupG_rhea,1
-1231902029,SushiGo,3,GAME_OVER,61,0,2,401,rhea,38.0,59.0,groupG_rhea,2,rhea,2,1,1,groupG_rhea,groupG_rhea,rhea,0
+GameSeed,GameName,Round,Event,Tick,Turn,PlayerCount,GameID,FinalScore(PlayerName-0),FinalScore(Player-1),FinalScore(Player-0),FinalScore(Player-2),FinalScore(PlayerName-1),FinalScore(PlayerName-2),OrdinalPosition(Player-1 rank),OrdinalPosition(PlayerName-0),OrdinalPosition(Player-1),OrdinalPosition(Player-0),OrdinalPosition(Player-0 rank),OrdinalPosition(Player-2),OrdinalPosition(PlayerName-1),OrdinalPosition(Player-2 rank),OrdinalPosition(PlayerName-2),PlayerType(PlayerType-1),PlayerType(PlayerType-0),PlayerType(PlayerType-2),Winner(PlayerIdx)
+565879714,SushiGo,3,GAME_OVER,83,0,3,2,Basic MCTS,44.0,30.0,47.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+2069148269,SushiGo,3,GAME_OVER,82,0,3,3,Basic MCTS,60.0,37.0,37.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1545551564,SushiGo,3,GAME_OVER,81,0,3,4,Basic MCTS,47.0,37.0,39.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1441265338,SushiGo,3,GAME_OVER,82,0,3,5,Basic MCTS,42.0,47.0,40.0,groupG_rhea,rhea,2,Basic MCTS,2,1,1,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,0
+-228548849,SushiGo,3,GAME_OVER,82,0,3,6,Basic MCTS,51.0,38.0,55.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1744502633,SushiGo,3,GAME_OVER,82,0,3,7,Basic MCTS,52.0,54.0,41.0,groupG_rhea,rhea,2,Basic MCTS,2,1,1,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,0
+-1415041886,SushiGo,3,GAME_OVER,82,0,3,8,Basic MCTS,33.0,36.0,35.0,groupG_rhea,rhea,3,Basic MCTS,3,1,1,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,0
+1949533456,SushiGo,3,GAME_OVER,82,0,3,9,Basic MCTS,58.0,37.0,36.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1371143192,SushiGo,3,GAME_OVER,81,0,3,10,Basic MCTS,62.0,37.0,43.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1241578111,SushiGo,3,GAME_OVER,85,0,3,11,Basic MCTS,44.0,27.0,63.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+456611590,SushiGo,3,GAME_OVER,82,0,3,12,Basic MCTS,35.0,38.0,25.0,groupG_rhea,rhea,2,Basic MCTS,2,1,1,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,0
+-601013491,SushiGo,3,GAME_OVER,82,0,3,13,Basic MCTS,47.0,33.0,53.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1971304632,SushiGo,3,GAME_OVER,81,0,3,14,Basic MCTS,42.0,48.0,42.0,groupG_rhea,rhea,2,Basic MCTS,2,1,1,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,0
+1711745582,SushiGo,3,GAME_OVER,81,0,3,15,Basic MCTS,30.0,30.0,67.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1261422866,SushiGo,3,GAME_OVER,82,0,3,16,Basic MCTS,45.0,34.0,43.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+690855209,SushiGo,3,GAME_OVER,82,0,3,17,Basic MCTS,45.0,31.0,42.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+541399828,SushiGo,3,GAME_OVER,82,0,3,18,Basic MCTS,49.0,29.0,39.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1640051046,SushiGo,3,GAME_OVER,83,0,3,19,Basic MCTS,47.0,39.0,41.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1556565712,SushiGo,3,GAME_OVER,81,0,3,20,Basic MCTS,38.0,43.0,38.0,groupG_rhea,rhea,2,Basic MCTS,2,1,1,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,0
+2114918617,SushiGo,3,GAME_OVER,81,0,3,21,Basic MCTS,49.0,36.0,47.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+803087289,SushiGo,3,GAME_OVER,81,0,3,22,Basic MCTS,53.0,32.0,40.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+-457711794,SushiGo,3,GAME_OVER,81,0,3,23,Basic MCTS,37.0,36.0,45.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+5290360,SushiGo,3,GAME_OVER,81,0,3,24,Basic MCTS,45.0,35.0,42.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1137946463,SushiGo,3,GAME_OVER,82,0,3,25,Basic MCTS,39.0,36.0,47.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-365570793,SushiGo,3,GAME_OVER,81,0,3,26,Basic MCTS,45.0,50.0,50.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-255820716,SushiGo,3,GAME_OVER,83,0,3,27,Basic MCTS,42.0,34.0,42.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1402449380,SushiGo,3,GAME_OVER,83,0,3,28,Basic MCTS,36.0,28.0,42.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-923806133,SushiGo,3,GAME_OVER,83,0,3,29,Basic MCTS,43.0,34.0,49.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+2132847292,SushiGo,3,GAME_OVER,82,0,3,30,Basic MCTS,34.0,31.0,29.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+664301646,SushiGo,3,GAME_OVER,82,0,3,31,Basic MCTS,53.0,31.0,34.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1770768813,SushiGo,3,GAME_OVER,85,0,3,32,Basic MCTS,40.0,33.0,35.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+-2145448892,SushiGo,3,GAME_OVER,82,0,3,33,Basic MCTS,41.0,43.0,50.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1861931179,SushiGo,3,GAME_OVER,83,0,3,34,Basic MCTS,64.0,37.0,56.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1997711074,SushiGo,3,GAME_OVER,81,0,3,35,Basic MCTS,32.0,33.0,60.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1754251921,SushiGo,3,GAME_OVER,83,0,3,36,Basic MCTS,40.0,36.0,32.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+1517153800,SushiGo,3,GAME_OVER,81,0,3,37,Basic MCTS,40.0,39.0,37.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+1907918688,SushiGo,3,GAME_OVER,81,0,3,38,Basic MCTS,46.0,40.0,50.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+495736360,SushiGo,3,GAME_OVER,81,0,3,39,Basic MCTS,47.0,30.0,42.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+341975755,SushiGo,3,GAME_OVER,81,0,3,40,Basic MCTS,36.0,60.0,52.0,groupG_rhea,rhea,3,Basic MCTS,3,1,1,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,0
+-127789136,SushiGo,3,GAME_OVER,83,0,3,41,Basic MCTS,44.0,46.0,40.0,groupG_rhea,rhea,2,Basic MCTS,2,1,1,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,0
+-2020838618,SushiGo,3,GAME_OVER,83,0,3,42,Basic MCTS,42.0,40.0,37.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1416295539,SushiGo,3,GAME_OVER,81,0,3,43,Basic MCTS,58.0,38.0,37.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+-2020107165,SushiGo,3,GAME_OVER,81,0,3,44,Basic MCTS,43.0,35.0,54.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+233330232,SushiGo,3,GAME_OVER,81,0,3,45,Basic MCTS,35.0,37.0,42.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-135857176,SushiGo,3,GAME_OVER,82,0,3,46,Basic MCTS,42.0,59.0,61.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1341119750,SushiGo,3,GAME_OVER,81,0,3,47,Basic MCTS,33.0,53.0,49.0,groupG_rhea,rhea,3,Basic MCTS,3,1,1,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,0
+-911569817,SushiGo,3,GAME_OVER,83,0,3,48,Basic MCTS,42.0,41.0,52.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+1211493695,SushiGo,3,GAME_OVER,82,0,3,49,Basic MCTS,61.0,38.0,45.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+898318424,SushiGo,3,GAME_OVER,82,0,3,50,Basic MCTS,47.0,44.0,32.0,groupG_rhea,rhea,1,Basic MCTS,1,2,2,3,groupG_rhea,3,rhea,groupG_rhea,Basic MCTS,rhea,1
+-942404556,SushiGo,3,GAME_OVER,81,0,3,51,Basic MCTS,50.0,28.0,47.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1408301094,SushiGo,3,GAME_OVER,82,0,3,52,Basic MCTS,44.0,32.0,47.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+1146221834,SushiGo,3,GAME_OVER,83,0,3,53,Basic MCTS,26.0,39.0,47.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-2025974710,SushiGo,3,GAME_OVER,82,0,3,54,Basic MCTS,34.0,45.0,45.0,groupG_rhea,rhea,3,Basic MCTS,3,1,1,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,-1
+724435589,SushiGo,3,GAME_OVER,82,0,3,55,Basic MCTS,52.0,30.0,35.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+1539281127,SushiGo,3,GAME_OVER,82,0,3,56,Basic MCTS,39.0,40.0,56.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-322431794,SushiGo,3,GAME_OVER,82,0,3,57,Basic MCTS,48.0,49.0,62.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+786982827,SushiGo,3,GAME_OVER,81,0,3,58,Basic MCTS,38.0,40.0,42.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1057547620,SushiGo,3,GAME_OVER,83,0,3,59,Basic MCTS,35.0,43.0,54.0,groupG_rhea,rhea,3,Basic MCTS,3,2,2,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+1661695482,SushiGo,3,GAME_OVER,83,0,3,60,Basic MCTS,30.0,50.0,43.0,groupG_rhea,rhea,3,Basic MCTS,3,1,1,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,0
+-1521083090,SushiGo,3,GAME_OVER,81,0,3,61,Basic MCTS,42.0,25.0,43.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-452679503,SushiGo,3,GAME_OVER,81,0,3,62,Basic MCTS,50.0,40.0,46.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+-1840133455,SushiGo,3,GAME_OVER,81,0,3,63,Basic MCTS,49.0,39.0,51.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-2120383479,SushiGo,3,GAME_OVER,83,0,3,64,Basic MCTS,43.0,29.0,42.0,groupG_rhea,rhea,1,Basic MCTS,1,3,3,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,1
+-2005252350,SushiGo,3,GAME_OVER,81,0,3,65,Basic MCTS,44.0,34.0,46.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+-1354525356,SushiGo,3,GAME_OVER,82,0,3,66,Basic MCTS,37.0,49.0,47.0,groupG_rhea,rhea,3,Basic MCTS,3,1,1,2,groupG_rhea,2,rhea,groupG_rhea,Basic MCTS,rhea,0
+-235581204,SushiGo,3,GAME_OVER,82,0,3,67,Basic MCTS,45.0,34.0,49.0,groupG_rhea,rhea,2,Basic MCTS,2,3,3,1,groupG_rhea,1,rhea,groupG_rhea,Basic MCTS,rhea,2
+565879714,SushiGo,3,GAME_OVER,84,0,3,68,Basic MCTS,48.0,33.0,42.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+2069148269,SushiGo,3,GAME_OVER,82,0,3,69,Basic MCTS,36.0,41.0,44.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1545551564,SushiGo,3,GAME_OVER,82,0,3,70,Basic MCTS,45.0,38.0,45.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1441265338,SushiGo,3,GAME_OVER,84,0,3,71,Basic MCTS,44.0,41.0,35.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-228548849,SushiGo,3,GAME_OVER,81,0,3,72,Basic MCTS,37.0,41.0,53.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1744502633,SushiGo,3,GAME_OVER,81,0,3,73,Basic MCTS,45.0,41.0,41.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1415041886,SushiGo,3,GAME_OVER,83,0,3,74,Basic MCTS,30.0,38.0,43.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1949533456,SushiGo,3,GAME_OVER,82,0,3,75,Basic MCTS,45.0,38.0,39.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1371143192,SushiGo,3,GAME_OVER,85,0,3,76,Basic MCTS,50.0,38.0,45.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+1241578111,SushiGo,3,GAME_OVER,81,0,3,77,Basic MCTS,39.0,41.0,53.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+456611590,SushiGo,3,GAME_OVER,83,0,3,78,Basic MCTS,28.0,34.0,49.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-601013491,SushiGo,3,GAME_OVER,81,0,3,79,Basic MCTS,51.0,32.0,43.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1971304632,SushiGo,3,GAME_OVER,82,0,3,80,Basic MCTS,37.0,42.0,40.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+1711745582,SushiGo,3,GAME_OVER,81,0,3,81,Basic MCTS,46.0,40.0,53.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1261422866,SushiGo,3,GAME_OVER,81,0,3,82,Basic MCTS,37.0,29.0,38.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+690855209,SushiGo,3,GAME_OVER,81,0,3,83,Basic MCTS,38.0,39.0,39.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+541399828,SushiGo,3,GAME_OVER,83,0,3,84,Basic MCTS,39.0,30.0,51.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1640051046,SushiGo,3,GAME_OVER,83,0,3,85,Basic MCTS,34.0,41.0,59.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1556565712,SushiGo,3,GAME_OVER,81,0,3,86,Basic MCTS,43.0,49.0,44.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+2114918617,SushiGo,3,GAME_OVER,81,0,3,87,Basic MCTS,50.0,34.0,50.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+803087289,SushiGo,3,GAME_OVER,81,0,3,88,Basic MCTS,38.0,48.0,52.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-457711794,SushiGo,3,GAME_OVER,81,0,3,89,Basic MCTS,45.0,28.0,35.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+5290360,SushiGo,3,GAME_OVER,82,0,3,90,Basic MCTS,43.0,41.0,52.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1137946463,SushiGo,3,GAME_OVER,83,0,3,91,Basic MCTS,51.0,36.0,50.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-365570793,SushiGo,3,GAME_OVER,81,0,3,92,Basic MCTS,42.0,42.0,46.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-255820716,SushiGo,3,GAME_OVER,81,0,3,93,Basic MCTS,56.0,33.0,51.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1402449380,SushiGo,3,GAME_OVER,81,0,3,94,Basic MCTS,41.0,53.0,40.0,rhea,groupG_rhea,2,Basic MCTS,2,1,1,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+-923806133,SushiGo,3,GAME_OVER,82,0,3,95,Basic MCTS,36.0,28.0,54.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+2132847292,SushiGo,3,GAME_OVER,82,0,3,96,Basic MCTS,46.0,26.0,52.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+664301646,SushiGo,3,GAME_OVER,83,0,3,97,Basic MCTS,36.0,34.0,50.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1770768813,SushiGo,3,GAME_OVER,83,0,3,98,Basic MCTS,45.0,33.0,39.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-2145448892,SushiGo,3,GAME_OVER,83,0,3,99,Basic MCTS,49.0,32.0,50.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1861931179,SushiGo,3,GAME_OVER,83,0,3,100,Basic MCTS,60.0,44.0,59.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+1997711074,SushiGo,3,GAME_OVER,82,0,3,101,Basic MCTS,39.0,32.0,42.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1754251921,SushiGo,3,GAME_OVER,83,0,3,102,Basic MCTS,48.0,36.0,42.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+1517153800,SushiGo,3,GAME_OVER,82,0,3,103,Basic MCTS,48.0,56.0,34.0,rhea,groupG_rhea,2,Basic MCTS,2,1,1,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+1907918688,SushiGo,3,GAME_OVER,83,0,3,104,Basic MCTS,43.0,36.0,59.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+495736360,SushiGo,3,GAME_OVER,81,0,3,105,Basic MCTS,46.0,24.0,38.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+341975755,SushiGo,3,GAME_OVER,83,0,3,106,Basic MCTS,61.0,26.0,39.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-127789136,SushiGo,3,GAME_OVER,85,0,3,107,Basic MCTS,37.0,32.0,42.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-2020838618,SushiGo,3,GAME_OVER,82,0,3,108,Basic MCTS,60.0,42.0,31.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1416295539,SushiGo,3,GAME_OVER,82,0,3,109,Basic MCTS,47.0,40.0,33.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-2020107165,SushiGo,3,GAME_OVER,83,0,3,110,Basic MCTS,54.0,46.0,48.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+233330232,SushiGo,3,GAME_OVER,81,0,3,111,Basic MCTS,39.0,37.0,45.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-135857176,SushiGo,3,GAME_OVER,82,0,3,112,Basic MCTS,51.0,60.0,55.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+-1341119750,SushiGo,3,GAME_OVER,82,0,3,113,Basic MCTS,40.0,39.0,35.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-911569817,SushiGo,3,GAME_OVER,81,0,3,114,Basic MCTS,55.0,33.0,51.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+1211493695,SushiGo,3,GAME_OVER,82,0,3,115,Basic MCTS,53.0,30.0,40.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+898318424,SushiGo,3,GAME_OVER,82,0,3,116,Basic MCTS,46.0,31.0,50.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-942404556,SushiGo,3,GAME_OVER,82,0,3,117,Basic MCTS,26.0,41.0,38.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+1408301094,SushiGo,3,GAME_OVER,82,0,3,118,Basic MCTS,38.0,30.0,53.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+1146221834,SushiGo,3,GAME_OVER,82,0,3,119,Basic MCTS,44.0,40.0,27.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-2025974710,SushiGo,3,GAME_OVER,83,0,3,120,Basic MCTS,40.0,46.0,46.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,-1
+724435589,SushiGo,3,GAME_OVER,84,0,3,121,Basic MCTS,54.0,25.0,44.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+1539281127,SushiGo,3,GAME_OVER,81,0,3,122,Basic MCTS,46.0,31.0,49.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-322431794,SushiGo,3,GAME_OVER,82,0,3,123,Basic MCTS,52.0,46.0,39.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+786982827,SushiGo,3,GAME_OVER,81,0,3,124,Basic MCTS,40.0,40.0,47.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1057547620,SushiGo,3,GAME_OVER,81,0,3,125,Basic MCTS,55.0,37.0,34.0,rhea,groupG_rhea,1,Basic MCTS,1,2,2,3,rhea,3,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+1661695482,SushiGo,3,GAME_OVER,84,0,3,126,Basic MCTS,41.0,32.0,36.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1521083090,SushiGo,3,GAME_OVER,81,0,3,127,Basic MCTS,33.0,24.0,46.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-452679503,SushiGo,3,GAME_OVER,83,0,3,128,Basic MCTS,45.0,36.0,57.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-1840133455,SushiGo,3,GAME_OVER,82,0,3,129,Basic MCTS,47.0,36.0,49.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-2120383479,SushiGo,3,GAME_OVER,85,0,3,130,Basic MCTS,31.0,38.0,36.0,rhea,groupG_rhea,3,Basic MCTS,3,1,1,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,0
+-2005252350,SushiGo,3,GAME_OVER,83,0,3,131,Basic MCTS,51.0,38.0,42.0,rhea,groupG_rhea,1,Basic MCTS,1,3,3,2,rhea,2,groupG_rhea,rhea,Basic MCTS,groupG_rhea,1
+-1354525356,SushiGo,3,GAME_OVER,83,0,3,132,Basic MCTS,42.0,29.0,46.0,rhea,groupG_rhea,2,Basic MCTS,2,3,3,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+-235581204,SushiGo,3,GAME_OVER,81,0,3,133,Basic MCTS,41.0,43.0,54.0,rhea,groupG_rhea,3,Basic MCTS,3,2,2,1,rhea,1,groupG_rhea,rhea,Basic MCTS,groupG_rhea,2
+565879714,SushiGo,3,GAME_OVER,83,0,3,134,groupG_rhea,34.0,50.0,47.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+2069148269,SushiGo,3,GAME_OVER,84,0,3,135,groupG_rhea,40.0,46.0,45.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+1545551564,SushiGo,3,GAME_OVER,82,0,3,136,groupG_rhea,41.0,47.0,53.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1441265338,SushiGo,3,GAME_OVER,81,0,3,137,groupG_rhea,35.0,33.0,60.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-228548849,SushiGo,3,GAME_OVER,82,0,3,138,groupG_rhea,45.0,47.0,58.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1744502633,SushiGo,3,GAME_OVER,81,0,3,139,groupG_rhea,54.0,38.0,43.0,Basic MCTS,rhea,1,groupG_rhea,1,3,3,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,1
+-1415041886,SushiGo,3,GAME_OVER,81,0,3,140,groupG_rhea,31.0,35.0,51.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1949533456,SushiGo,3,GAME_OVER,82,0,3,141,groupG_rhea,37.0,52.0,53.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1371143192,SushiGo,3,GAME_OVER,82,0,3,142,groupG_rhea,35.0,44.0,32.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+1241578111,SushiGo,3,GAME_OVER,83,0,3,143,groupG_rhea,40.0,56.0,34.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+456611590,SushiGo,3,GAME_OVER,82,0,3,144,groupG_rhea,42.0,42.0,43.0,Basic MCTS,rhea,2,groupG_rhea,2,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-601013491,SushiGo,3,GAME_OVER,82,0,3,145,groupG_rhea,42.0,43.0,49.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1971304632,SushiGo,3,GAME_OVER,82,0,3,146,groupG_rhea,30.0,45.0,58.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1711745582,SushiGo,3,GAME_OVER,81,0,3,147,groupG_rhea,37.0,48.0,51.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1261422866,SushiGo,3,GAME_OVER,84,0,3,148,groupG_rhea,41.0,37.0,51.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+690855209,SushiGo,3,GAME_OVER,82,0,3,149,groupG_rhea,40.0,47.0,40.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+541399828,SushiGo,3,GAME_OVER,84,0,3,150,groupG_rhea,32.0,47.0,49.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1640051046,SushiGo,3,GAME_OVER,81,0,3,151,groupG_rhea,41.0,40.0,39.0,Basic MCTS,rhea,1,groupG_rhea,1,2,2,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,1
+1556565712,SushiGo,3,GAME_OVER,82,0,3,152,groupG_rhea,43.0,46.0,38.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+2114918617,SushiGo,3,GAME_OVER,81,0,3,153,groupG_rhea,38.0,42.0,58.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+803087289,SushiGo,3,GAME_OVER,81,0,3,154,groupG_rhea,51.0,39.0,40.0,Basic MCTS,rhea,1,groupG_rhea,1,3,3,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,1
+-457711794,SushiGo,3,GAME_OVER,82,0,3,155,groupG_rhea,27.0,23.0,46.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+5290360,SushiGo,3,GAME_OVER,81,0,3,156,groupG_rhea,45.0,50.0,53.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1137946463,SushiGo,3,GAME_OVER,81,0,3,157,groupG_rhea,38.0,37.0,46.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-365570793,SushiGo,3,GAME_OVER,81,0,3,158,groupG_rhea,43.0,49.0,36.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+-255820716,SushiGo,3,GAME_OVER,84,0,3,159,groupG_rhea,39.0,44.0,46.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1402449380,SushiGo,3,GAME_OVER,82,0,3,160,groupG_rhea,36.0,44.0,48.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-923806133,SushiGo,3,GAME_OVER,83,0,3,161,groupG_rhea,29.0,47.0,50.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+2132847292,SushiGo,3,GAME_OVER,83,0,3,162,groupG_rhea,41.0,53.0,51.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+664301646,SushiGo,3,GAME_OVER,82,0,3,163,groupG_rhea,32.0,41.0,37.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+1770768813,SushiGo,3,GAME_OVER,83,0,3,164,groupG_rhea,25.0,50.0,41.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-2145448892,SushiGo,3,GAME_OVER,83,0,3,165,groupG_rhea,30.0,40.0,45.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1861931179,SushiGo,3,GAME_OVER,81,0,3,166,groupG_rhea,41.0,56.0,45.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+1997711074,SushiGo,3,GAME_OVER,82,0,3,167,groupG_rhea,30.0,29.0,55.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1754251921,SushiGo,3,GAME_OVER,83,0,3,168,groupG_rhea,33.0,46.0,53.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1517153800,SushiGo,3,GAME_OVER,84,0,3,169,groupG_rhea,35.0,41.0,62.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1907918688,SushiGo,3,GAME_OVER,82,0,3,170,groupG_rhea,58.0,36.0,40.0,Basic MCTS,rhea,1,groupG_rhea,1,3,3,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,1
+495736360,SushiGo,3,GAME_OVER,81,0,3,171,groupG_rhea,33.0,38.0,41.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+341975755,SushiGo,3,GAME_OVER,83,0,3,172,groupG_rhea,35.0,39.0,49.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-127789136,SushiGo,3,GAME_OVER,84,0,3,173,groupG_rhea,29.0,30.0,46.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-2020838618,SushiGo,3,GAME_OVER,82,0,3,174,groupG_rhea,44.0,49.0,32.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+-1416295539,SushiGo,3,GAME_OVER,81,0,3,175,groupG_rhea,41.0,51.0,30.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,0
+-2020107165,SushiGo,3,GAME_OVER,82,0,3,176,groupG_rhea,37.0,50.0,56.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+233330232,SushiGo,3,GAME_OVER,81,0,3,177,groupG_rhea,38.0,50.0,49.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-135857176,SushiGo,3,GAME_OVER,83,0,3,178,groupG_rhea,42.0,56.0,46.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-1341119750,SushiGo,3,GAME_OVER,81,0,3,179,groupG_rhea,27.0,62.0,42.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-911569817,SushiGo,3,GAME_OVER,82,0,3,180,groupG_rhea,38.0,51.0,53.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1211493695,SushiGo,3,GAME_OVER,81,0,3,181,groupG_rhea,40.0,59.0,43.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+898318424,SushiGo,3,GAME_OVER,82,0,3,182,groupG_rhea,45.0,39.0,40.0,Basic MCTS,rhea,1,groupG_rhea,1,3,3,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,1
+-942404556,SushiGo,3,GAME_OVER,81,0,3,183,groupG_rhea,40.0,41.0,47.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1408301094,SushiGo,3,GAME_OVER,82,0,3,184,groupG_rhea,40.0,48.0,40.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+1146221834,SushiGo,3,GAME_OVER,82,0,3,185,groupG_rhea,45.0,39.0,48.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-2025974710,SushiGo,3,GAME_OVER,84,0,3,186,groupG_rhea,35.0,40.0,38.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+724435589,SushiGo,3,GAME_OVER,82,0,3,187,groupG_rhea,44.0,38.0,40.0,Basic MCTS,rhea,1,groupG_rhea,1,3,3,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,1
+1539281127,SushiGo,3,GAME_OVER,82,0,3,188,groupG_rhea,37.0,45.0,37.0,Basic MCTS,rhea,2,groupG_rhea,2,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-322431794,SushiGo,3,GAME_OVER,83,0,3,189,groupG_rhea,46.0,57.0,49.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+786982827,SushiGo,3,GAME_OVER,81,0,3,190,groupG_rhea,36.0,49.0,42.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-1057547620,SushiGo,3,GAME_OVER,82,0,3,191,groupG_rhea,37.0,42.0,52.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+1661695482,SushiGo,3,GAME_OVER,81,0,3,192,groupG_rhea,31.0,35.0,50.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1521083090,SushiGo,3,GAME_OVER,82,0,3,193,groupG_rhea,42.0,42.0,47.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-452679503,SushiGo,3,GAME_OVER,82,0,3,194,groupG_rhea,37.0,55.0,57.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-1840133455,SushiGo,3,GAME_OVER,82,0,3,195,groupG_rhea,50.0,48.0,45.0,Basic MCTS,rhea,1,groupG_rhea,1,2,2,3,Basic MCTS,3,rhea,Basic MCTS,groupG_rhea,rhea,1
+-2120383479,SushiGo,3,GAME_OVER,82,0,3,196,groupG_rhea,49.0,29.0,37.0,Basic MCTS,rhea,1,groupG_rhea,1,3,3,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,1
+-2005252350,SushiGo,3,GAME_OVER,82,0,3,197,groupG_rhea,29.0,39.0,38.0,Basic MCTS,rhea,3,groupG_rhea,3,1,1,2,Basic MCTS,2,rhea,Basic MCTS,groupG_rhea,rhea,0
+-1354525356,SushiGo,3,GAME_OVER,81,0,3,198,groupG_rhea,36.0,27.0,52.0,Basic MCTS,rhea,2,groupG_rhea,2,3,3,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+-235581204,SushiGo,3,GAME_OVER,81,0,3,199,groupG_rhea,29.0,39.0,42.0,Basic MCTS,rhea,3,groupG_rhea,3,2,2,1,Basic MCTS,1,rhea,Basic MCTS,groupG_rhea,rhea,2
+565879714,SushiGo,3,GAME_OVER,82,0,3,200,groupG_rhea,35.0,49.0,38.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+2069148269,SushiGo,3,GAME_OVER,81,0,3,201,groupG_rhea,48.0,46.0,35.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1545551564,SushiGo,3,GAME_OVER,81,0,3,202,groupG_rhea,51.0,36.0,41.0,rhea,Basic MCTS,1,groupG_rhea,1,3,3,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1441265338,SushiGo,3,GAME_OVER,81,0,3,203,groupG_rhea,56.0,39.0,30.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-228548849,SushiGo,3,GAME_OVER,83,0,3,204,groupG_rhea,47.0,44.0,53.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+-1744502633,SushiGo,3,GAME_OVER,82,0,3,205,groupG_rhea,47.0,43.0,37.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1415041886,SushiGo,3,GAME_OVER,84,0,3,206,groupG_rhea,42.0,31.0,29.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1949533456,SushiGo,3,GAME_OVER,84,0,3,207,groupG_rhea,47.0,42.0,29.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1371143192,SushiGo,3,GAME_OVER,81,0,3,208,groupG_rhea,51.0,46.0,35.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1241578111,SushiGo,3,GAME_OVER,84,0,3,209,groupG_rhea,39.0,43.0,34.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+456611590,SushiGo,3,GAME_OVER,83,0,3,210,groupG_rhea,46.0,44.0,41.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-601013491,SushiGo,3,GAME_OVER,82,0,3,211,groupG_rhea,35.0,51.0,35.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-1971304632,SushiGo,3,GAME_OVER,83,0,3,212,groupG_rhea,37.0,35.0,28.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1711745582,SushiGo,3,GAME_OVER,83,0,3,213,groupG_rhea,56.0,49.0,39.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1261422866,SushiGo,3,GAME_OVER,83,0,3,214,groupG_rhea,33.0,44.0,40.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+690855209,SushiGo,3,GAME_OVER,81,0,3,215,groupG_rhea,45.0,46.0,29.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+541399828,SushiGo,3,GAME_OVER,81,0,3,216,groupG_rhea,47.0,37.0,32.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1640051046,SushiGo,3,GAME_OVER,83,0,3,217,groupG_rhea,42.0,52.0,30.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1556565712,SushiGo,3,GAME_OVER,82,0,3,218,groupG_rhea,37.0,43.0,42.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+2114918617,SushiGo,3,GAME_OVER,81,0,3,219,groupG_rhea,52.0,48.0,41.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+803087289,SushiGo,3,GAME_OVER,81,0,3,220,groupG_rhea,46.0,42.0,37.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-457711794,SushiGo,3,GAME_OVER,83,0,3,221,groupG_rhea,44.0,36.0,36.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+5290360,SushiGo,3,GAME_OVER,82,0,3,222,groupG_rhea,41.0,52.0,27.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1137946463,SushiGo,3,GAME_OVER,83,0,3,223,groupG_rhea,51.0,37.0,41.0,rhea,Basic MCTS,1,groupG_rhea,1,3,3,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-365570793,SushiGo,3,GAME_OVER,82,0,3,224,groupG_rhea,38.0,54.0,43.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-255820716,SushiGo,3,GAME_OVER,83,0,3,225,groupG_rhea,45.0,42.0,48.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+-1402449380,SushiGo,3,GAME_OVER,83,0,3,226,groupG_rhea,50.0,40.0,40.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-923806133,SushiGo,3,GAME_OVER,84,0,3,227,groupG_rhea,45.0,54.0,37.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+2132847292,SushiGo,3,GAME_OVER,84,0,3,228,groupG_rhea,45.0,45.0,35.0,rhea,Basic MCTS,1,groupG_rhea,1,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,-1
+664301646,SushiGo,3,GAME_OVER,81,0,3,229,groupG_rhea,42.0,24.0,45.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+1770768813,SushiGo,3,GAME_OVER,82,0,3,230,groupG_rhea,36.0,48.0,33.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-2145448892,SushiGo,3,GAME_OVER,81,0,3,231,groupG_rhea,47.0,45.0,55.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+-1861931179,SushiGo,3,GAME_OVER,84,0,3,232,groupG_rhea,38.0,29.0,50.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+1997711074,SushiGo,3,GAME_OVER,84,0,3,233,groupG_rhea,49.0,59.0,24.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-1754251921,SushiGo,3,GAME_OVER,82,0,3,234,groupG_rhea,47.0,48.0,55.0,rhea,Basic MCTS,3,groupG_rhea,3,2,2,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+1517153800,SushiGo,3,GAME_OVER,81,0,3,235,groupG_rhea,38.0,53.0,40.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1907918688,SushiGo,3,GAME_OVER,83,0,3,236,groupG_rhea,51.0,46.0,34.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+495736360,SushiGo,3,GAME_OVER,83,0,3,237,groupG_rhea,49.0,30.0,26.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+341975755,SushiGo,3,GAME_OVER,82,0,3,238,groupG_rhea,46.0,40.0,39.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-127789136,SushiGo,3,GAME_OVER,82,0,3,239,groupG_rhea,37.0,43.0,33.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-2020838618,SushiGo,3,GAME_OVER,83,0,3,240,groupG_rhea,46.0,37.0,40.0,rhea,Basic MCTS,1,groupG_rhea,1,3,3,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1416295539,SushiGo,3,GAME_OVER,82,0,3,241,groupG_rhea,46.0,41.0,41.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-2020107165,SushiGo,3,GAME_OVER,81,0,3,242,groupG_rhea,59.0,48.0,40.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+233330232,SushiGo,3,GAME_OVER,83,0,3,243,groupG_rhea,44.0,38.0,39.0,rhea,Basic MCTS,1,groupG_rhea,1,3,3,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-135857176,SushiGo,3,GAME_OVER,83,0,3,244,groupG_rhea,53.0,47.0,41.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1341119750,SushiGo,3,GAME_OVER,81,0,3,245,groupG_rhea,33.0,27.0,52.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+-911569817,SushiGo,3,GAME_OVER,85,0,3,246,groupG_rhea,39.0,50.0,42.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1211493695,SushiGo,3,GAME_OVER,82,0,3,247,groupG_rhea,47.0,48.0,41.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+898318424,SushiGo,3,GAME_OVER,82,0,3,248,groupG_rhea,38.0,46.0,33.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-942404556,SushiGo,3,GAME_OVER,81,0,3,249,groupG_rhea,42.0,48.0,38.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+1408301094,SushiGo,3,GAME_OVER,81,0,3,250,groupG_rhea,63.0,47.0,28.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+1146221834,SushiGo,3,GAME_OVER,83,0,3,251,groupG_rhea,50.0,56.0,30.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-2025974710,SushiGo,3,GAME_OVER,81,0,3,252,groupG_rhea,36.0,35.0,34.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+724435589,SushiGo,3,GAME_OVER,83,0,3,253,groupG_rhea,44.0,31.0,47.0,rhea,Basic MCTS,2,groupG_rhea,2,3,3,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+1539281127,SushiGo,3,GAME_OVER,82,0,3,254,groupG_rhea,62.0,41.0,45.0,rhea,Basic MCTS,1,groupG_rhea,1,3,3,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-322431794,SushiGo,3,GAME_OVER,83,0,3,255,groupG_rhea,50.0,47.0,39.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+786982827,SushiGo,3,GAME_OVER,82,0,3,256,groupG_rhea,50.0,40.0,34.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1057547620,SushiGo,3,GAME_OVER,81,0,3,257,groupG_rhea,39.0,40.0,40.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,-1
+1661695482,SushiGo,3,GAME_OVER,81,0,3,258,groupG_rhea,49.0,36.0,24.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1521083090,SushiGo,3,GAME_OVER,81,0,3,259,groupG_rhea,43.0,49.0,34.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-452679503,SushiGo,3,GAME_OVER,81,0,3,260,groupG_rhea,48.0,38.0,44.0,rhea,Basic MCTS,1,groupG_rhea,1,3,3,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-1840133455,SushiGo,3,GAME_OVER,83,0,3,261,groupG_rhea,61.0,46.0,33.0,rhea,Basic MCTS,1,groupG_rhea,1,2,2,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,1
+-2120383479,SushiGo,3,GAME_OVER,82,0,3,262,groupG_rhea,32.0,44.0,34.0,rhea,Basic MCTS,3,groupG_rhea,3,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-2005252350,SushiGo,3,GAME_OVER,83,0,3,263,groupG_rhea,37.0,44.0,37.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,2,rhea,2,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-1354525356,SushiGo,3,GAME_OVER,82,0,3,264,groupG_rhea,40.0,50.0,34.0,rhea,Basic MCTS,2,groupG_rhea,2,1,1,3,rhea,3,Basic MCTS,rhea,groupG_rhea,Basic MCTS,0
+-235581204,SushiGo,3,GAME_OVER,81,0,3,265,groupG_rhea,39.0,51.0,61.0,rhea,Basic MCTS,3,groupG_rhea,3,2,2,1,rhea,1,Basic MCTS,rhea,groupG_rhea,Basic MCTS,2
+565879714,SushiGo,3,GAME_OVER,82,0,3,266,rhea,31.0,38.0,49.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+2069148269,SushiGo,3,GAME_OVER,82,0,3,267,rhea,35.0,58.0,41.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1545551564,SushiGo,3,GAME_OVER,81,0,3,268,rhea,49.0,36.0,53.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1441265338,SushiGo,3,GAME_OVER,82,0,3,269,rhea,33.0,51.0,38.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-228548849,SushiGo,3,GAME_OVER,81,0,3,270,rhea,36.0,57.0,49.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-1744502633,SushiGo,3,GAME_OVER,81,0,3,271,rhea,33.0,41.0,48.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1415041886,SushiGo,3,GAME_OVER,82,0,3,272,rhea,33.0,34.0,51.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1949533456,SushiGo,3,GAME_OVER,81,0,3,273,rhea,46.0,52.0,52.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-1371143192,SushiGo,3,GAME_OVER,83,0,3,274,rhea,33.0,53.0,39.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1241578111,SushiGo,3,GAME_OVER,82,0,3,275,rhea,43.0,50.0,46.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+456611590,SushiGo,3,GAME_OVER,82,0,3,276,rhea,50.0,44.0,41.0,Basic MCTS,groupG_rhea,1,rhea,1,2,2,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+-601013491,SushiGo,3,GAME_OVER,81,0,3,277,rhea,35.0,39.0,52.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1971304632,SushiGo,3,GAME_OVER,83,0,3,278,rhea,28.0,48.0,57.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1711745582,SushiGo,3,GAME_OVER,82,0,3,279,rhea,35.0,46.0,50.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1261422866,SushiGo,3,GAME_OVER,84,0,3,280,rhea,39.0,26.0,52.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+690855209,SushiGo,3,GAME_OVER,84,0,3,281,rhea,28.0,46.0,42.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+541399828,SushiGo,3,GAME_OVER,83,0,3,282,rhea,25.0,34.0,57.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1640051046,SushiGo,3,GAME_OVER,81,0,3,283,rhea,45.0,31.0,53.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1556565712,SushiGo,3,GAME_OVER,83,0,3,284,rhea,42.0,43.0,41.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+2114918617,SushiGo,3,GAME_OVER,83,0,3,285,rhea,34.0,35.0,49.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+803087289,SushiGo,3,GAME_OVER,82,0,3,286,rhea,38.0,54.0,40.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-457711794,SushiGo,3,GAME_OVER,81,0,3,287,rhea,27.0,39.0,42.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+5290360,SushiGo,3,GAME_OVER,82,0,3,288,rhea,39.0,45.0,46.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1137946463,SushiGo,3,GAME_OVER,83,0,3,289,rhea,41.0,46.0,35.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-365570793,SushiGo,3,GAME_OVER,81,0,3,290,rhea,33.0,35.0,53.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-255820716,SushiGo,3,GAME_OVER,84,0,3,291,rhea,48.0,51.0,42.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-1402449380,SushiGo,3,GAME_OVER,82,0,3,292,rhea,28.0,50.0,46.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-923806133,SushiGo,3,GAME_OVER,82,0,3,293,rhea,38.0,39.0,53.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+2132847292,SushiGo,3,GAME_OVER,82,0,3,294,rhea,31.0,37.0,48.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+664301646,SushiGo,3,GAME_OVER,83,0,3,295,rhea,23.0,31.0,52.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1770768813,SushiGo,3,GAME_OVER,82,0,3,296,rhea,30.0,57.0,34.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-2145448892,SushiGo,3,GAME_OVER,83,0,3,297,rhea,26.0,52.0,44.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-1861931179,SushiGo,3,GAME_OVER,82,0,3,298,rhea,42.0,41.0,50.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1997711074,SushiGo,3,GAME_OVER,83,0,3,299,rhea,35.0,46.0,58.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1754251921,SushiGo,3,GAME_OVER,83,0,3,300,rhea,48.0,52.0,48.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1517153800,SushiGo,3,GAME_OVER,82,0,3,301,rhea,46.0,55.0,38.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1907918688,SushiGo,3,GAME_OVER,82,0,3,302,rhea,43.0,41.0,48.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+495736360,SushiGo,3,GAME_OVER,81,0,3,303,rhea,26.0,40.0,39.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+341975755,SushiGo,3,GAME_OVER,84,0,3,304,rhea,30.0,51.0,46.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-127789136,SushiGo,3,GAME_OVER,82,0,3,305,rhea,24.0,49.0,40.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-2020838618,SushiGo,3,GAME_OVER,83,0,3,306,rhea,37.0,51.0,47.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-1416295539,SushiGo,3,GAME_OVER,83,0,3,307,rhea,39.0,42.0,36.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-2020107165,SushiGo,3,GAME_OVER,81,0,3,308,rhea,50.0,37.0,44.0,Basic MCTS,groupG_rhea,1,rhea,1,3,3,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+233330232,SushiGo,3,GAME_OVER,81,0,3,309,rhea,44.0,38.0,43.0,Basic MCTS,groupG_rhea,1,rhea,1,3,3,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+-135857176,SushiGo,3,GAME_OVER,83,0,3,310,rhea,39.0,59.0,52.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-1341119750,SushiGo,3,GAME_OVER,81,0,3,311,rhea,49.0,39.0,38.0,Basic MCTS,groupG_rhea,1,rhea,1,2,2,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+-911569817,SushiGo,3,GAME_OVER,82,0,3,312,rhea,32.0,40.0,57.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1211493695,SushiGo,3,GAME_OVER,82,0,3,313,rhea,27.0,53.0,48.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+898318424,SushiGo,3,GAME_OVER,82,0,3,314,rhea,28.0,40.0,39.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-942404556,SushiGo,3,GAME_OVER,83,0,3,315,rhea,34.0,50.0,46.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1408301094,SushiGo,3,GAME_OVER,82,0,3,316,rhea,34.0,51.0,43.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1146221834,SushiGo,3,GAME_OVER,82,0,3,317,rhea,25.0,62.0,32.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-2025974710,SushiGo,3,GAME_OVER,82,0,3,318,rhea,27.0,42.0,47.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+724435589,SushiGo,3,GAME_OVER,83,0,3,319,rhea,38.0,31.0,47.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+1539281127,SushiGo,3,GAME_OVER,82,0,3,320,rhea,54.0,51.0,28.0,Basic MCTS,groupG_rhea,1,rhea,1,2,2,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,1
+-322431794,SushiGo,3,GAME_OVER,82,0,3,321,rhea,47.0,69.0,36.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+786982827,SushiGo,3,GAME_OVER,82,0,3,322,rhea,44.0,41.0,54.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1057547620,SushiGo,3,GAME_OVER,82,0,3,323,rhea,39.0,44.0,40.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+1661695482,SushiGo,3,GAME_OVER,82,0,3,324,rhea,35.0,36.0,42.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1521083090,SushiGo,3,GAME_OVER,82,0,3,325,rhea,33.0,51.0,45.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-452679503,SushiGo,3,GAME_OVER,83,0,3,326,rhea,44.0,38.0,44.0,Basic MCTS,groupG_rhea,2,rhea,2,3,3,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1840133455,SushiGo,3,GAME_OVER,82,0,3,327,rhea,30.0,57.0,49.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-2120383479,SushiGo,3,GAME_OVER,82,0,3,328,rhea,32.0,44.0,44.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-2005252350,SushiGo,3,GAME_OVER,83,0,3,329,rhea,34.0,42.0,42.0,Basic MCTS,groupG_rhea,3,rhea,3,2,2,1,Basic MCTS,1,groupG_rhea,Basic MCTS,rhea,groupG_rhea,2
+-1354525356,SushiGo,3,GAME_OVER,82,0,3,330,rhea,47.0,48.0,40.0,Basic MCTS,groupG_rhea,2,rhea,2,1,1,3,Basic MCTS,3,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+-235581204,SushiGo,3,GAME_OVER,81,0,3,331,rhea,39.0,46.0,40.0,Basic MCTS,groupG_rhea,3,rhea,3,1,1,2,Basic MCTS,2,groupG_rhea,Basic MCTS,rhea,groupG_rhea,0
+565879714,SushiGo,3,GAME_OVER,83,0,3,332,rhea,57.0,37.0,34.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+2069148269,SushiGo,3,GAME_OVER,82,0,3,333,rhea,43.0,33.0,51.0,groupG_rhea,Basic MCTS,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+1545551564,SushiGo,3,GAME_OVER,81,0,3,334,rhea,48.0,56.0,41.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1441265338,SushiGo,3,GAME_OVER,81,0,3,335,rhea,48.0,30.0,53.0,groupG_rhea,Basic MCTS,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-228548849,SushiGo,3,GAME_OVER,81,0,3,336,rhea,42.0,60.0,36.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1744502633,SushiGo,3,GAME_OVER,82,0,3,337,rhea,62.0,55.0,34.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1415041886,SushiGo,3,GAME_OVER,83,0,3,338,rhea,44.0,40.0,35.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1949533456,SushiGo,3,GAME_OVER,81,0,3,339,rhea,57.0,34.0,38.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1371143192,SushiGo,3,GAME_OVER,81,0,3,340,rhea,41.0,35.0,34.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1241578111,SushiGo,3,GAME_OVER,81,0,3,341,rhea,51.0,37.0,46.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+456611590,SushiGo,3,GAME_OVER,83,0,3,342,rhea,38.0,49.0,39.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-601013491,SushiGo,3,GAME_OVER,83,0,3,343,rhea,56.0,44.0,33.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1971304632,SushiGo,3,GAME_OVER,81,0,3,344,rhea,42.0,52.0,24.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+1711745582,SushiGo,3,GAME_OVER,82,0,3,345,rhea,45.0,48.0,38.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1261422866,SushiGo,3,GAME_OVER,84,0,3,346,rhea,38.0,36.0,37.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+690855209,SushiGo,3,GAME_OVER,82,0,3,347,rhea,35.0,48.0,32.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+541399828,SushiGo,3,GAME_OVER,81,0,3,348,rhea,44.0,46.0,35.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+1640051046,SushiGo,3,GAME_OVER,82,0,3,349,rhea,50.0,38.0,31.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1556565712,SushiGo,3,GAME_OVER,86,0,3,350,rhea,36.0,30.0,35.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+2114918617,SushiGo,3,GAME_OVER,82,0,3,351,rhea,57.0,41.0,28.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+803087289,SushiGo,3,GAME_OVER,83,0,3,352,rhea,33.0,48.0,34.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-457711794,SushiGo,3,GAME_OVER,82,0,3,353,rhea,28.0,46.0,32.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+5290360,SushiGo,3,GAME_OVER,82,0,3,354,rhea,52.0,52.0,52.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+1137946463,SushiGo,3,GAME_OVER,82,0,3,355,rhea,39.0,27.0,45.0,groupG_rhea,Basic MCTS,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-365570793,SushiGo,3,GAME_OVER,81,0,3,356,rhea,59.0,61.0,31.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-255820716,SushiGo,3,GAME_OVER,81,0,3,357,rhea,41.0,38.0,47.0,groupG_rhea,Basic MCTS,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-1402449380,SushiGo,3,GAME_OVER,82,0,3,358,rhea,36.0,30.0,33.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-923806133,SushiGo,3,GAME_OVER,84,0,3,359,rhea,45.0,52.0,38.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+2132847292,SushiGo,3,GAME_OVER,86,0,3,360,rhea,49.0,36.0,28.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+664301646,SushiGo,3,GAME_OVER,83,0,3,361,rhea,44.0,37.0,40.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1770768813,SushiGo,3,GAME_OVER,83,0,3,362,rhea,43.0,43.0,32.0,groupG_rhea,Basic MCTS,1,rhea,1,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,-1
+-2145448892,SushiGo,3,GAME_OVER,83,0,3,363,rhea,48.0,35.0,42.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1861931179,SushiGo,3,GAME_OVER,82,0,3,364,rhea,48.0,36.0,35.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1997711074,SushiGo,3,GAME_OVER,81,0,3,365,rhea,51.0,56.0,33.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1754251921,SushiGo,3,GAME_OVER,83,0,3,366,rhea,50.0,54.0,48.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+1517153800,SushiGo,3,GAME_OVER,82,0,3,367,rhea,56.0,41.0,26.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1907918688,SushiGo,3,GAME_OVER,82,0,3,368,rhea,44.0,40.0,35.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+495736360,SushiGo,3,GAME_OVER,81,0,3,369,rhea,32.0,35.0,43.0,groupG_rhea,Basic MCTS,3,rhea,3,2,2,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+341975755,SushiGo,3,GAME_OVER,82,0,3,370,rhea,53.0,43.0,38.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-127789136,SushiGo,3,GAME_OVER,85,0,3,371,rhea,30.0,44.0,47.0,groupG_rhea,Basic MCTS,3,rhea,3,2,2,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-2020838618,SushiGo,3,GAME_OVER,84,0,3,372,rhea,57.0,22.0,41.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1416295539,SushiGo,3,GAME_OVER,81,0,3,373,rhea,55.0,30.0,45.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-2020107165,SushiGo,3,GAME_OVER,82,0,3,374,rhea,41.0,43.0,34.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+233330232,SushiGo,3,GAME_OVER,81,0,3,375,rhea,34.0,57.0,29.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-135857176,SushiGo,3,GAME_OVER,82,0,3,376,rhea,37.0,43.0,36.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1341119750,SushiGo,3,GAME_OVER,83,0,3,377,rhea,33.0,43.0,38.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-911569817,SushiGo,3,GAME_OVER,83,0,3,378,rhea,56.0,45.0,41.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1211493695,SushiGo,3,GAME_OVER,81,0,3,379,rhea,48.0,38.0,34.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+898318424,SushiGo,3,GAME_OVER,85,0,3,380,rhea,50.0,43.0,29.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-942404556,SushiGo,3,GAME_OVER,81,0,3,381,rhea,44.0,47.0,46.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+1408301094,SushiGo,3,GAME_OVER,82,0,3,382,rhea,45.0,39.0,18.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1146221834,SushiGo,3,GAME_OVER,82,0,3,383,rhea,39.0,36.0,38.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-2025974710,SushiGo,3,GAME_OVER,82,0,3,384,rhea,57.0,28.0,40.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+724435589,SushiGo,3,GAME_OVER,83,0,3,385,rhea,44.0,42.0,40.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1539281127,SushiGo,3,GAME_OVER,82,0,3,386,rhea,28.0,50.0,31.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-322431794,SushiGo,3,GAME_OVER,82,0,3,387,rhea,51.0,48.0,39.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+786982827,SushiGo,3,GAME_OVER,82,0,3,388,rhea,41.0,40.0,36.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1057547620,SushiGo,3,GAME_OVER,83,0,3,389,rhea,50.0,46.0,29.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+1661695482,SushiGo,3,GAME_OVER,81,0,3,390,rhea,44.0,36.0,33.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1521083090,SushiGo,3,GAME_OVER,82,0,3,391,rhea,40.0,48.0,35.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-452679503,SushiGo,3,GAME_OVER,83,0,3,392,rhea,51.0,31.0,47.0,groupG_rhea,Basic MCTS,1,rhea,1,3,3,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-1840133455,SushiGo,3,GAME_OVER,81,0,3,393,rhea,48.0,46.0,44.0,groupG_rhea,Basic MCTS,1,rhea,1,2,2,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,1
+-2120383479,SushiGo,3,GAME_OVER,84,0,3,394,rhea,38.0,30.0,39.0,groupG_rhea,Basic MCTS,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-2005252350,SushiGo,3,GAME_OVER,82,0,3,395,rhea,40.0,50.0,31.0,groupG_rhea,Basic MCTS,2,rhea,2,1,1,3,groupG_rhea,3,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0
+-1354525356,SushiGo,3,GAME_OVER,82,0,3,396,rhea,44.0,42.0,45.0,groupG_rhea,Basic MCTS,2,rhea,2,3,3,1,groupG_rhea,1,Basic MCTS,groupG_rhea,rhea,Basic MCTS,2
+-235581204,SushiGo,3,GAME_OVER,82,0,3,397,rhea,40.0,49.0,45.0,groupG_rhea,Basic MCTS,3,rhea,3,1,1,2,groupG_rhea,2,Basic MCTS,groupG_rhea,rhea,Basic MCTS,0

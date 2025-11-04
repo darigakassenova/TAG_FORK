@@ -256,3 +256,24 @@ Alpha-rank by Ordinal Position
 	rhea                          	0,00
 	rmhc                          	0,00
 
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 396, GamesPerMatchup: 66
+basicmcts got 50,50 points. basicmcts won 12,4% of the 396 games of the tournament. basicmcts won 12,4% of the 396 games it played during the tournament.
+basicmcts got a mean score of 37,52.
+basicmcts won 12,4% of the 396 games against groupG_rhea.
+basicmcts won 12,4% of the 396 games against rhea.
+
+groupG_rhea got 167,00 points. groupG_rhea won 41,7% of the 396 games of the tournament. groupG_rhea won 41,7% of the 396 games it played during the tournament.
+groupG_rhea got a mean score of 44,35.
+groupG_rhea won 41,7% of the 396 games against basicmcts.
+groupG_rhea won 41,7% of the 396 games against rhea.
+
+rhea got 178,50 points. rhea won 44,7% of the 396 games of the tournament. rhea won 44,7% of the 396 games it played during the tournament.
+rhea got a mean score of 44,48.
+rhea won 44,7% of the 396 games against basicmcts.
+rhea won 44,7% of the 396 games against groupG_rhea.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+rhea: Win rate 0,45 +/- 0,025	Mean Ordinal 1,74 +/- 0,04
+groupG_rhea: Win rate 0,42 +/- 0,025	Mean Ordinal 1,76 +/- 0,04
+basicmcts: Win rate 0,13 +/- 0,017	Mean Ordinal 2,48 +/- 0,04
+
